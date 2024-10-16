@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675181530 source:c:\users\barte\onedrive\pulpit\i semestr\1.8 programowanie strukturalne (c)\laboratorium\ps 21.01.31\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
