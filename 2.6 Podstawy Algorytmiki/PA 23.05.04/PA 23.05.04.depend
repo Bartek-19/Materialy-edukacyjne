@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683200008 source:c:\users\barte\onedrive\pulpit\ii semestr\2.6 podstawy algorytmiki\laboratorium\pa 23.05.04\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

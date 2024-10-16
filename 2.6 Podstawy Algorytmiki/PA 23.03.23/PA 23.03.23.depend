@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1680116296 source:c:\users\barte\onedrive\pulpit\ii semestr\2.6 podstawy algorytmiki\laboratorium\pa 23.03.23\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+
