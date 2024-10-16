@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1683823087 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.05.11\src\tdomownik.cpp
+	"Tdomownik.h"
+	<iostream>
+
+1683823393 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.05.11\include\tdomownik.h
+	<string>
+
+1684179281 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.05.11\main.cpp
+	<iostream>
+	"Tdomownik.h"
+	"Tsasiad.h"
+	"Tkolo.h"
+	"Tpunkt.h"
+	<cmath>
+
+1683823290 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.05.11\include\tsasiad.h
+	<string>
+	"Tdomownik.h"
+
+1683823719 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.05.11\src\tsasiad.cpp
+	"Tsasiad.h"
+	"Tdomownik.h"
+	<iostream>
+
+1684173599 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.05.11\include\tkolo.h
+
+1684173599 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.05.11\include\tpunkt.h
+
+1684171204 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.05.11\src\tkolo.cpp
+	"Tkolo.h"
+
+1683918735 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.05.11\src\tpunkt.cpp
+	"Tpunkt.h"
+

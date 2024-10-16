@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684428605 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.05.18\main.cpp
+	<iostream>
+	"Ttime.h"
+
+1684427729 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.05.18\include\ttime.h
+	"iostream"
+
+1684426890 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.05.18\src\ttime.cpp
+	"Ttime.h"
+
