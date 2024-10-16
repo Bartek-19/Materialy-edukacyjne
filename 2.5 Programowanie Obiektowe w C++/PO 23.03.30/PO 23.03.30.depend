@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1680359346 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.30\main.cpp
+	"Tosoba.h"
+	"Tstudent.h"
+	"Tpracownik.h"
+	"TpracownikFizyczny.h"
+	"TpracownikUmyslowy.h"
+	<iostream>
+
+1680285529 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.30\src\tosoba.cpp
+	"Tosoba.h"
+	<iostream>
+
+1680193295 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.30\include\tosoba.h
+	<string>
+
+1680356082 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.30\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+	<cstdlib>
+
+1680194195 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.30\include\tstudent.h
+	<Tosoba.h>
+	<cstdlib>
+
+1680356120 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.30\src\tpracownik.cpp
+	"Tpracownik.h"
+	<iostream>
+	<iomanip>
+
+1680287252 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.30\include\tpracownik.h
+	<Tosoba.h>
+
+1680355580 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.30\src\tpracownikfizyczny.cpp
+	"TpracownikFizyczny.h"
+	<iostream>
+
+1680355762 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.30\include\tpracownikfizyczny.h
+	<Tpracownik.h>
+
+1680359346 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.30\src\tpracownikumyslowy.cpp
+	"TpracownikUmyslowy.h"
+	<iostream>
+
+1680357202 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.30\include\tpracownikumyslowy.h
+	<Tpracownik.h>
+

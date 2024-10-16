@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1682614387 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.27\main.cpp
+	<iostream>
+	"Tdokument.h"
+	"Tfaktura.h"
+	"Ttowar.h"
+	"Tklient.h"
+
+1682620096 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.27\src\tklient.cpp
+	"Tklient.h"
+	<iostream>
+	<cstdio>
+
+1682613938 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.27\include\tklient.h
+	<string>
+
+1682620654 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.27\src\ttowar.cpp
+	"Ttowar.h"
+	<iostream>
+	<iomanip>
+	<cstdio>
+
+1682613938 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.27\include\ttowar.h
+	<string>
+
+1682620134 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.27\src\tdokument.cpp
+	"Tdokument.h"
+	<iostream>
+	<cstdio>
+
+1682613938 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.27\include\tdokument.h
+	<string>
+
+1682620604 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.27\src\tfaktura.cpp
+	"Tfaktura.h"
+	"Ttowar.h"
+	"Tklient.h"
+	<iostream>
+	<iomanip>
+	<cstdio>
+
+1682613948 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.27\include\tfaktura.h
+	<Tdokument.h>
+	"Ttowar.h"
+	"Tklient.h"
+

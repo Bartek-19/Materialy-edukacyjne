@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1681831017 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.13\main.cpp
+	<iostream>
+	"Ifigura.h"
+	"Tkolo2.h"
+	"Tkwadrat2.h"
+	"Tprostokat2.h"
+
+1681828198 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.13\src\ifigura.cpp
+	"Ifigura.h"
+	<iostream>
+	<cstdio>
+
+1681759173 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.13\include\ifigura.h
+	<string>
+
+1681828215 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.13\src\tkolo2.cpp
+	"Tkolo2.h"
+	<iostream>
+	<cstdio>
+
+1681828198 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.13\include\tkolo2.h
+	<Ifigura.h>
+
+1681830288 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.13\src\tkwadrat2.cpp
+	"Tkwadrat2.h"
+	<iostream>
+	<cstdio>
+
+1681830288 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.13\include\tkwadrat2.h
+	<Ifigura.h>
+
+1681830922 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.13\src\tprostokat2.cpp
+	"Tprostokat2.h"
+	<iostream>
+	<cstdio>
+
+1681830866 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.04.13\include\tprostokat2.h
+	<Ifigura.h>
+

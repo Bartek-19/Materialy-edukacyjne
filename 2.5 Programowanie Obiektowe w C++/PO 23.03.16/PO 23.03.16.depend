@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1678989156 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.16\src\tdata.cpp
+	"Tdata.h"
+	<cstdlib>
+	<iostream>
+
+1679160530 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.16\include\tdata.h
+
+1679160336 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.16\main.cpp
+	<iostream>
+	"Tdata.h"
+	"Tosoba2.h"
+
+1679163492 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.16\include\tosoba2.h
+	<Tdata.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+
+1679168688 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.16\src\tosoba2.cpp
+	"Tosoba2.h"
+	"Tdata.h"
+	<cstdlib>
+	<cmath>
+	<string.h>
+
