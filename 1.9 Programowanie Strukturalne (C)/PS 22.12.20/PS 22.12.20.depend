@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1672321760 source:c:\users\barte\onedrive\pulpit\i semestr\1.8 programowanie strukturalne (c)\laboratorium\ps 22.12.20\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TabliceDyn.h"
+
+1672320721 source:c:\users\barte\onedrive\pulpit\i semestr\1.8 programowanie strukturalne (c)\laboratorium\ps 22.12.20\tablicedyn.c
+	<stdlib.h>
+	<stdio.h>
+
+1672173326 c:\users\barte\onedrive\pulpit\i semestr\1.8 programowanie strukturalne (c)\laboratorium\ps 22.12.20\tablicedyn.h
+

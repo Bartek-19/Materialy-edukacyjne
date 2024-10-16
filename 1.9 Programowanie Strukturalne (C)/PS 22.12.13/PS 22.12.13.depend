@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671309217 source:c:\users\barte\onedrive\pulpit\i semestr\1.8 programowanie strukturalne (c)\laboratorium\ps 22.12.13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
