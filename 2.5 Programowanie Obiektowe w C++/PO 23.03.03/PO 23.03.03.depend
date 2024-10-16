@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678109811 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.03\main.cpp
+	<iostream>
+	<cstdio>
+	<iomanip>
+	<string>
+

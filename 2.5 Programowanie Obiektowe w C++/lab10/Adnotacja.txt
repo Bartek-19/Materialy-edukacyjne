@@ -1,0 +1,8 @@
+Jeśli w programie pojawiły się jakieś błędy podczas użytkowania,
+to chciałbym za nie jak najbardziej przeprosić, ponieważ za nic
+nie byłem w stanie ustawić kompilatora i debugera aby ze sobą
+współpracowały, dlatego nie byłem w stanie na bieżąco testować
+czy program działa poprawnie.
+Dodatkowo, w zadaniu 10.10, w części związanej z notatnikiem
+wykorzystałem strumień wejścia i wyjścia do klawiatury, ponieważ
+wykorzystanie do tego klasy "QClipboard" generowało error.

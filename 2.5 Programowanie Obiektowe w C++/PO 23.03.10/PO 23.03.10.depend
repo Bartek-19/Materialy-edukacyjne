@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1679169564 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.10\main.cpp
+	<iostream>
+	"Tosoba.h"
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+
+1678472226 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.10\src\tosoba.cpp
+	"Tosoba.h"
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<cstring>
+
+1678471083 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\po 23.03.10\include\tosoba.h
+	<string.h>
+	<cstdlib>
+	<iostream>
+

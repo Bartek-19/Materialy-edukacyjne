@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1678452700 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\lab2a\main.cpp
+	<iostream>
+	<cstdlib>
+	"Tpracownik.h"
+	"Tdzialania.h"
+	"Tstudent.h"
+
+1678382637 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\lab2a\include\tpracownik.h
+
+1678382672 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\lab2a\src\tpracownik.cpp
+	"Tpracownik.h"
+	<iostream>
+	<iomanip>
+
+1678384408 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\lab2a\src\tdzialania.cpp
+	"Tdzialania.h"
+	<iostream>
+	<cmath>
+
+1678384408 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\lab2a\include\tdzialania.h
+
+1678452838 source:c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\lab2a\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1678452602 c:\users\barte\onedrive\pulpit\ii semestr\2.5 programowanie obiektowe c++\laboratorium\lab2a\include\tstudent.h
+
