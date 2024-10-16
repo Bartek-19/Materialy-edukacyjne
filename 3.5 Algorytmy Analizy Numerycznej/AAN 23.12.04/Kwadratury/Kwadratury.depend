@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701963428 source:c:\users\barte\onedrive\pulpit\iii semestr\3.5 algorytmy analizy numerycznej\laboratorium\aan 23.12.04\kwadratury\main.cpp
+	<iostream>
+	<cmath>
+

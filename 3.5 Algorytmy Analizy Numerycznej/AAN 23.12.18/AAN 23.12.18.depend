@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704461161 source:c:\users\barte\onedrive\pulpit\iii semestr\3.5 algorytmy analizy numerycznej\laboratorium\aan 23.12.18\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
