@@ -1,0 +1,41 @@
+<h4>Obsługa kadrowo-płacowa</h4>
+<p>
+	<strong>W ramach obsługi kadrowo-płacowej wykonujemy:</strong>
+</p>
+<p>
+	» Prowadzimy akta osobowe pracowników,
+</p>
+<p>
+	» Prowadzimy ewidencję czasu pracy,
+</p>
+<p>
+	» Informujemy o badaniach lekarskich,
+</p>
+<p>
+	» Sporządzamy umowy o pracę, zlecenia, dzieła - na podstawie uzyskanych informacji,
+</p>
+<p>
+	» Sporządzamy listy płac, rachunki do umów cywilnoprawnych,
+</p>
+<p>
+	» Prowadzimy dokumentację rejestracyjną pracowników i zleceniobiorców (ZUS),
+</p>
+<p>
+	» Prowadzimy imienne karty przychodów pracownika, 
+</p>
+<p>
+	» Prowadzimy ewidencje urlopów pracowników, dokumentacje zwolnień od pracy (płatnych i niepłatnych),
+</p>
+<p>
+	» Sporządzamy informacje PIT-11 oraz PIT-40,
+</p>
+<p>
+	» Sporządzamy zaświadczenia o wynagrodzeniu i zatrudnieniu dla pracowników (na żądanie), 
+</p>
+<p>
+	» Przygotowujemy gotówkowe dowody wypłat lub przelewy wynagrodzeń na rachunki bankowe pracowników.
+</p>
+<br>
+<a class="btn btn-primary btn-sm" href="#!" onclick="wyswietl(3)">
+	Powrót
+</a>

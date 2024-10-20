@@ -1,0 +1,41 @@
+<h4>Oferta</h4>
+<p>
+	<strong>
+		Oferujemy Państwu o wiele więcej niż tylko usługi księgowe:
+	</strong>
+</p>
+<p>
+	» Natychmiast po podpisaniu umowy i odpowiednich pełnomocnictw, przejmiemy na siebie wszelkie kontakty
+	z instytucjami państwowymi, zwalniając Was z tego obowiązku. 
+</p>
+<p>
+	» Jedynym Państwa zmartwieniem, będzie dostarczenie do naszego biura dokumentów rozliczeniowych
+	i pracowniczych (np. zwolnień lekarskich, urlopów, itp.), a w przypadku takiego uzgodnienia, będziemy sami je odbierać
+	z Państwa siedziby.
+</p>
+<p>
+	» My sporządzimy dla Państwa gotowe druki przelewów do odpowiednich instytucji, listy wynagrodzeń pracowników, zestawienia finansowe według Państwa założeń oraz 
+	udzielimy wskazówek, jak powinniście optymalizować swoje przychody i wydatki, aby obciążenia z tytułu podatków były możliwie najniższe.
+</p>
+<p>
+	» Nasze biuro rachunkowe przejmie na siebie całą odpowiedzialność za stan rozliczeń Waszej Firmy <br>
+	z urzędem skarbowym i ZUS!
+</p>
+<p>
+	» Współpraca z naszymi Klientami opiera się na poszukiwaniu najlepszych rozwiązań, gwarantujących wysoką jakość świadczonych usług.
+</p>
+<p>
+	Świadczymy usługi w zakresie:
+</p>
+<p>
+	» <a href="#!" onclick="wyswietl(9)">prowadzenia ksiąg rachunkowych spółek i osób fizycznych</a>
+</p>
+<p>
+	» <a href="#!" onclick="wyswietl(10)">prowadzenia podatkowych ksiąg przychodów i rozchodów oraz ewidencji przychodów </a>
+</p>
+<p>	
+	» <a href="#!" onclick="wyswietl(11)">pełnej obsługi kadrowo-płacowej</a>
+</p>
+<p>
+	» <a href="#!" onclick="wyswietl(12)">inne</a>
+</p>

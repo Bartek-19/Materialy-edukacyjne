@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <title> Formularz rejestracyjny</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>
+            <form action="#" method="get"> 
+                <p>
+                    Imię*:<br>
+                    <input required type="text" pattern="[A-Z]+" title="imie"><br>
+                    Nazwisko*:<br>
+                    <input required type="text" pattern="[A-Z]+" title="nazwisko" ><br>
+                    Email*:<br>
+                    <input required type="email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+" title="email"><br>
+                    Telefon*:<br>
+                    <input required type="tel" pattern="[0-9]{9}" title="tel"><br>
+                    Data urodzenia:<br>
+                    <input type="date" title="data"><br>
+                    Hasło*:<br>
+                    <input required type="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="haslo"><br>
+                </p>
+                <p>
+                    Uczeń: <input required type="radio" name="kto" value="uczen"> 
+                    Student: <input type="radio" name="kto" value="student"> 
+                    Pracownik: <input type="radio" name="kto" value="pracownik"><br>
+                    <br>
+                    Zainteresowania: 
+                    <select name="zainteresowania" multiple size="3">
+                        <option value="sport">Sport</option>
+                        <option value="muzyka">Muzyka</option>
+                        <option value="film">Film</option>
+                        <option value="motoryzacja">Motoryzacja</option>
+                        <option value="taniec">Taniec</option>
+                        <option value="podróże">Podróże</option>
+                    </select><br />
+                    <input required type="checkbox" name="akceptacja" >*Akceptuję regulamin <br>
+                    <input type="submit" value="Rejestruj">
+                    <input type="reset" value="Wyczyść">
+                </p>
+            </form>
+        </div>
+    </body>
+</html>

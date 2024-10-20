@@ -1,0 +1,47 @@
+<h4>Księgi rachunkowe</h4>
+<p>
+	<strong>Prowadzenie ksiąg rachunkowych obejmuje:</strong>
+</p>
+<p>
+	» Opracowanie lub modyfikacje zasad polityki rachunkowości,
+</p>
+<p>
+	» Opracowanie lub modyfikacja zakładowego planu kont i jego wdrożenie,
+</p>
+<p>
+	» Dokonywanie zapisów w ewidencji syntetycznej i analitycznej (łącznie z dekretowaniem dokumentów),
+</p>
+<p>
+	» Ustalanie wysokości miesięcznych zaliczek na podatek dochodowy,
+</p>
+<p>
+	» Prowadzenie rejestru zakupu i sprzedaży VAT,
+</p>
+<p>
+	» Sporządzanie deklaracji podatku dochodowego od osób fizycznych i prawnych,
+</p>
+<p>
+	» Sporządzanie deklaracji podatku od towarów i usług – VAT, VAT-UE,
+</p>
+<p>
+	» Sporządzanie i przekazywanie sprawozdań finansowych i statystycznych,
+</p>
+<p>
+	» Sporządzanie planów amortyzacji oraz prowadzenie ewidencji środków trwałych, wartości niematerialnych i prawnych,
+</p>
+<p>
+	» Sporządzanie zeznań rocznych na podstawie danych wynikających z wpisów do księgi,
+</p>
+<p>
+	» Zamknięcie roku obrachunkowego jednostki pod kątem podatkowym i rachunkowym wraz ze sporządzeniem bilansu, rachunku zysków i strat oraz informacji dodatkowej,
+</p>
+<p>
+	» Sporządzanie przelewów dot. zobowiązań publicznoprawnych (ZUS, US),
+</p>
+<p>
+	» Monitoring należności i zobowiązań.
+</p>
+<br>
+<a class="btn btn-primary btn-sm" href="#!" onclick="wyswietl(3)">
+	Powrót
+</a>

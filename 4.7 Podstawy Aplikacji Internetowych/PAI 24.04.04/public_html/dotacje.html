@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formularz dotacji</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>Formularz dotacji<br></h1>
+        <div>
+            <form action="#" method="get">
+                <fieldset>
+                    Beneficjent: <input required list="beneficjenci" name="beneficjent">
+                    <datalist id="beneficjenci" title="listaBeneficjentów">
+                        <option value="Caritas Polska"></option>
+                        <option value="Dom dziecka"></option>
+                        <option value="Zdążyć z pomocą"></option>
+                        <option value="Fundacja Polsat"></option>
+                    </datalist>
+                    <br>
+                    Wartość dotacji: <input required type="number" min="20" max="100000000" title="wartośćDotacji">
+                </fieldset>
+                <br>
+                <fieldset title="Dane karty płatniczej">
+                    Karta: 
+                    <input required type="radio" name="karta" value="Visa">Visa 
+                    <input type="radio" name="karta" value="MasterCard">MasterCard<br>
+                    Numer: <input required type="text" pattern="[0-9]{13,16}" title="numerKarty"><br>
+                    Data ważności: <input required type="date" title="dataWażnościKarty"><br>
+                    Kod CVV: <input required type="text" pattern="[0-9]{3,4}" title="CVV"><br>
+                </fieldset>
+                <br>
+                <input type="submit" value="Rejestruj">
+                <input type="reset" value="Wyczyść">
+            </form>
+        </div>
+    </body>
+</html>

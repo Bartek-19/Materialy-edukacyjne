@@ -1,0 +1,292 @@
+<h4>Aktualności</h4>
+<ul>
+	<li>
+		<p>
+			<strong>Skala podatku dochodowego 2024</strong>
+		</p>
+	</li>
+</ul>
+<div align="center">
+	<table>
+		<thead>
+			<tr>
+				<td colspan="2">
+					<p>
+						Podstawa obliczenia podatku
+					</p>
+				</td>
+				<td colspan="2" rowspan="2">
+					<p>
+						Podatek wynosi				
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<p>
+						ponad
+					</p>
+				</td>
+				<td>
+					<p>
+						do
+					</p>
+				</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>
+				</td>
+				<td>
+					<p>
+						120.000 zł
+					</p>
+				</td>
+				<td>
+					<p>
+						12%
+					</p>
+				</td>
+				<td rowspan="2">
+					<p>
+						- kwota zmniejszająca podatek 3.600 zł
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<p>
+						120.000 zł
+					</p>
+				</td>
+				<td>
+				</td>
+				<td>
+					<p>
+						10.800 zł + 32% nadwyżki ponad 120.000 zł
+					</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<ul>
+	<li>
+		<p>
+			<strong>
+				Koszty uzyskania przychodu 2024
+			</strong>
+		</p>
+	</li>
+</ul>
+<table>
+	<tbody>
+		<tr>
+			<td rowspan="2">
+				Z jednego stosunku pracy
+			</td>
+			<td>
+				<font size="2">Miesięcznie</font>
+			</td>
+			<td>
+				<font size="2">250,00 zł</font>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rocznie
+			</td>
+			<td>
+				3.000,00 zł 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Z kilku stosunków pracy
+			</td>
+			<td>
+				<font size="2">Maksymalnie</font>
+			</td>
+			<td>
+				<font size="2">4.500,00 zł</font>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				Z jednego stosunku pracy dla dojeżdżających 
+			</td>
+			<td>
+				<font size="2">Miesięcznie</font>
+			</td>
+			<td>
+				<font size="2">300,00 zł</font>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rocznie
+			</td>
+			<td>
+				3.600,00 zł
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Z kilku stosunków pracy dla dojeżdżających
+			</td>
+			<td>
+				<font size="2">Maksymalnie</font>
+			</td>
+			<td>
+				<font size="2">5.400,00 zł</font>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<ul>
+	<li>
+		<p>
+			<strong>Delegacja krajowe</strong>
+		</p>
+	</li>
+</ul>
+<table>
+	<tbody>
+		<tr>
+			<td>
+				Dieta pełna
+			</td>
+			<td>
+				45,00 zł
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ryczałt za nocleg (150% diety)
+			</td>
+			<td>
+				67,50 zł
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ryczałt za dojazd (20% diety)
+			</td>
+			<td>
+				9,00 zł
+			</td>
+		</tr>
+	</tbody>
+</table>
+<ul>
+	<li>
+		<p>
+			<strong>Ubezpieczenia społeczne</strong>
+		</p>
+	</li>
+</ul>
+<p>
+	Minimalna składka na ubezpieczenia społeczne od osób prowadzących pozarolniczą działalność gospodarczą i osób z nimi 
+	współpracujących, twórców, artystów oraz osób wykonujących wolny zawód
+</p>
+<p>
+	Wysokość składek za okres od 1 stycznia 2024 r. do 31 grudnia 2024 r. *
+</p>
+<table>	
+	<thead>			
+		<tr>
+			<td>
+				<strong>Rodzaj składki</strong>
+			</td>
+			<td>
+				Stawka
+			</td>
+			<td>
+				Kwota
+			</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Emarytalna
+			</td>
+			<td>
+				19,52 %
+			</td>
+			<td>
+				916,35 zł
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rentowa
+			</td>
+			<td>
+				8,00 %
+			</td>
+			<td>
+				375,55 zł
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Chorobowa
+			</td>
+			<td>
+				2,45 %
+			</td>
+			<td>
+				115,01 zł
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wypadkowa
+			</td>
+			<td>
+				1,67%
+			</td>
+			<td>
+				78,40 zł
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fundusz pracy
+			</td>
+			<td>
+				2,45 %
+			</td>
+			<td>
+				115,01 zł
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Podstawa wymiaru składek na ubezpieczenie społeczne
+			</td>
+			<td colspan="2">
+				4.694,40 zł
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				Składka zdrowotna uzależniona jest od formy opodatkowania oraz osiągniętego dochodu/przychodu 
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	Uwaga:<br>
+	* Dotyczy osób prowadzących pozarolniczą działalność, dla których minimalną podstawę wymiaru 
+	stanowi 60% prognozowanego przeciętnego wynagrodzenia miesięcznego.<br>
+	** Kwota składki na ubezpieczenie wypadkowe obliczona stopą procentową w wysokości 1,67%, właściwą 
+	dla płatników składek zgłaszających w poprzednim roku kalendarzowym do ubezpieczenia wypadkowego 
+	przeciętnie miesięcznie nie więcej niż 9 osób.
+</p>
+<p>
+	- Suma składek z dobrowolnym ubezpieczeniem chorobowym - <strong>1600,32 zł</strong><br>
+	- Suma składek bez dobrowolnego ubezpieczenia chorobowego - <strong>1.485,31 zł</strong><br>
+</p>

@@ -1,0 +1,16 @@
+<h6>Imię i Nazwisko: </h6><span id="imieNazwisko"></span><br>
+<h6>Adres E-mail: </h6><span id="email"></span><br>
+<h6>Numer Telefonu: </h6><span id="tel"></span><br>
+<h6>Nazwa Firmy: </h6><span id="nazwaFirmy"></span><br>
+<h6>Forma prawna: </h6><span id="forma"></span><br>
+<h6>Płatnik VAT: </h6><span id="vat"></span><br>
+<h6>Kupno/sprzedaż towarów/usług za granicę: </h6><span id="export"></span><br>
+<h6>Liczba dokumentów w miesiącu: </h6><span id="dokumenty"></span><br>
+<h6>Liczba pracowników (Umowa o pracę): </h6><span id="uop"></span><br>
+<h6>Liczba pracowników (Umowa zlecenie): </h6><span id="ucp"></span><br>
+<table>
+	<tr>
+		<td class="right"><input type="button" value="Anuluj" onclick="powrot()"></td>
+		<td class="left"><input type="button" value="Dalej" onsubmit="dalej()"></td>
+	</tr>
+</table>
