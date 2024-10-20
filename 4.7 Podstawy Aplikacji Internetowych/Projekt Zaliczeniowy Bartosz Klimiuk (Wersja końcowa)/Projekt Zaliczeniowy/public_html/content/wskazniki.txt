@@ -1,0 +1,328 @@
+<h4>Aktualności</h4>
+<ul>
+        <li>
+                <strong>Skala podatku dochodowego 2024</strong>
+        </li>
+</ul>
+<table class="table1">
+        <thead>
+		<tr>
+			<th colspan="2">
+				Podstawa obliczenia podatku
+			</th>
+			<th colspan="2" rowspan="2">
+					Podatek wynosi
+			</th>
+		</tr>
+		<tr>
+			<th>
+				ponad
+			</th>
+			<th>
+				do
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td></td>
+			<td>120.000 zł</td>
+			<td>12%</td>
+			<td rowspan="2">- kwota zmniejszająca podatek 3.600 zł</td>
+		</tr>
+		<tr>
+			<td>120.000 zł</td>
+			<td></td>
+			<td>10.800 zł + 32% nadwyżki ponad 120.000 zł</td>
+		</tr>
+	</tbody>
+</table>
+<ul>
+	<li>
+		<strong>
+			Koszty uzyskania przychodu 2024
+		</strong>
+	</li>
+</ul>
+<table class="table1">
+	<tbody>
+		<tr>
+			<td rowspan="2">Z jednego stosunku pracy</td>
+			<td><font size="2">Miesięcznie</font></td>
+			<td><font size="2">250,00 zł</font></td>
+		</tr>
+		<tr>
+			<td>Rocznie</td>
+			<td>3.000,00 zł</td>
+		</tr>
+		<tr>
+			<td>Z kilku stosunków pracy</td>
+			<td><font size="2">Maksymalnie</font></td>
+			<td><font size="2">4.500,00 zł</font></td>
+		</tr>
+		<tr>
+			<td rowspan="2">Z jednego stosunku pracy dla dojeżdżających</td>
+			<td><font size="2">Miesięcznie</font></td>
+			<td><font size="2">300,00 zł</font></td>
+		</tr>
+		<tr>
+			<td>Rocznie</td>
+			<td>3.600,00 zł</td>
+		</tr>
+		<tr>
+			<td>Z kilku stosunków pracy dla dojeżdżających</td>
+			<td><font size="2">Maksymalnie</font></td>
+			<td><font size="2">5.400,00 zł</font></td>
+		</tr>
+	</tbody>
+</table>
+<ul>
+	<li>
+		<strong>Delegacja krajowe</strong>
+	</li>
+</ul>
+<table class="table1">
+	<tbody>
+		<tr>
+			<td>Dieta pełna</td>
+			<td>45,00 zł</td>
+		</tr>
+		<tr>
+			<td>Ryczałt za nocleg (150% diety)</td>
+			<td>67,50 zł</td>
+		</tr>
+		<tr>
+			<td>Ryczałt za dojazd (20% diety)</td>
+			<td>9,00 zł</td>
+		</tr>
+	</tbody>
+</table>
+<ul>
+	<li>
+		<strong>Ubezpieczenia społeczne</strong>
+	</li>
+</ul>
+<p>
+	Minimalna składka na ubezpieczenia społeczne od osób prowadzących pozarolniczą działalność gospodarczą i osób z nimi 
+	współpracujących, twórców, artystów oraz osób wykonujących wolny zawód
+</p>
+<p>
+	Wysokość składek za okres od 1 stycznia 2024 r. do 31 grudnia 2024 r. *
+</p>
+<table class="table1">	
+	<thead>			
+		<tr>
+			<th>
+				<strong>Rodzaj składki</strong>
+			</th>
+			<th>
+				Stawka
+			</th>
+			<th>
+				Kwota
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Emarytalna</td>
+			<td>19,52 %</td>
+			<td>916,35 zł</td>
+		</tr>
+		<tr>
+			<td>Rentowa</td>
+			<td>8,00 %</td>
+			<td>375,55 zł</td>
+		</tr>
+		<tr>
+			<td>Chorobowa</td>
+			<td>2,45 %</td>
+			<td>115,01 zł</td>
+		</tr>
+		<tr>
+			<td>Wypadkowa</td>
+			<td>1,67%</td>
+			<td>78,40 zł</td>
+		</tr>
+		<tr>
+			<td>Fundusz pracy</td>
+			<td>2,45 %</td>
+			<td>115,01 zł</td>
+		</tr>
+		<tr>
+			<td>Podstawa wymiaru składek na ubezpieczenie społeczne</td>
+			<td colspan="2">4.694,40 zł</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" colspan="3">
+				Składka zdrowotna uzależniona jest od formy opodatkowania oraz osiągniętego dochodu/przychodu 
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	Uwaga:<br>
+	* Dotyczy osób prowadzących pozarolniczą działalność, dla których minimalną podstawę wymiaru 
+	stanowi 60% prognozowanego przeciętnego wynagrodzenia miesięcznego.<br>
+	** Kwota składki na ubezpieczenie wypadkowe obliczona stopą procentową w wysokości 1,67%, właściwą 
+	dla płatników składek zgłaszających w poprzednim roku kalendarzowym do ubezpieczenia wypadkowego 
+	przeciętnie miesięcznie nie więcej niż 9 osób.
+</p>
+<p>
+	- Suma składek z dobrowolnym ubezpieczeniem chorobowym - <strong>1600,32 zł</strong><br>
+	- Suma składek bez dobrowolnego ubezpieczenia chorobowego - <strong>1.485,31 zł</strong><br>
+</p>
+<ul>
+	<li>
+		<strong>Ubezpieczenia społeczne dla nowych firm</strong>
+	</li>
+</ul>
+<p>
+	Osoby podejmujące działalność gospodarczą po 
+	raz pierwszy od 5 lat mają prawo do ograniczenia wysokości 
+	swoich składek ZUS w okresie pierwszych 24 miesięcy 
+	kalendarzowych od dnia rozpoczęcia wykonywania działalności 
+	gospodarczej.
+</p>
+<br>
+<p>
+	Wysokość składek za okres od 1 stycznia 2024 r. do 30 czerwca 2024 r. *
+</p>
+<table class="table1">
+	<thead>
+		<tr>
+			<th style="width: 60%">
+				<strong>Rodzaj składki</strong>
+			</th>
+			<th style="width: 20%">
+				Stawka
+			</th>
+			<th style="width: 20%">
+				Kwota
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Emerytalna</td>
+			<td>19,52 %</td>
+			<td>248,41 zł</td>
+		</tr>
+		<tr>
+			<td>Rentowa</td>
+			<td>8,00 %</td>
+			<td>101,81 zł</td>
+		</tr>
+		<tr>
+			<td>Chorobowa</td>
+			<td>2,45 %</td>
+			<td>31,18 zł</td>
+		</tr>
+		<tr>
+			<td>Wypadkowa</td>
+			<td>1,67 %</td>
+			<td>21,25 zł</td>
+		</tr>
+		<tr>
+			<td>Podstawa wymiaru składek na ubezpieczenie społeczne</td>
+			<td colspan="2">1.272,60 zł</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" colspan="3">
+				Składka zdrowotna uzależniona jest od formy opodatkowaniai oraz osiągniętego dochodu/przychodu
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	Uwaga:<br>
+	* Dotyczy osób prowadzących pozarolniczą działalność, dla których minimalną 
+	podstawę wymiaru stanowi 30% prognozowanego przeciętnego wynagrodzenia miesięcznego.<br>
+	** Kwota składki na ubezpieczenie wypadkowe obliczona stopą procentową w wysokości 
+	1,67%, właściwą dla płatników składek zgłaszających w poprzednim roku kalendarzowym do 
+	ubezpieczenia wypadkowego przeciętnie miesięcznie nie więcej niż 9 osób.
+</p>
+<p>
+	- Suma składek z dobrowolnym ubezpieczeniem chorobowym - <strong>402,65 zł</strong><br>
+	- Suma składek bez dobrowolnego ubezpieczenia chorobowego - <strong>371,47 zł</strong>
+</p>
+<p>
+	Powyższe przepisy nie mają zastosowania do osób, które:<br>
+	1) prowadzą lub w okresie ostatnich 60 miesięcy kalendarzowych przed dniem 
+	rozpoczęcia wykonywania działalności gospodarczej prowadziły pozarolniczą działalność,<br>
+	2) wykonują działalność gospodarczą na rzecz byłego pracodawcy, na rzecz którego przed 
+	dniem rozpoczęcia działalności gospodarczej w bieżącym lub w poprzednim roku kalendarzowym, 
+	wykonywały w ramach stosunku pracy lub spółdzielczego stosunku pracy czynności 
+	wchodzące w zakres wykonywanej działalności gospodarczej.
+</p>
+<br>
+<ul>
+	<li>
+		<strong>Inne ważne limity na 2024 rok</strong>
+	</li>
+</ul>
+<table class="table1">
+	<thead>
+		<tr>
+			<th style="width: 60%"></th>
+			<th style="width: 20%">w euro</th>
+			<th style="width: 20%">w złotych</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Wartość sprzedaży uprawniająca do zwolnienia podmiotowego z VAT</td>
+			<td></td>
+			<td>200.000</td>
+		</tr>
+		<tr>
+			<td>Wartość sprzedaży za rok poprzedni (wraz z kwotą należnego podatku VAT) uprawniająca do statusu małego podatnika VAT</td>
+			<td>2.000.000</td>
+			<td>9.218.000 </td>
+		</tr>
+		<tr>
+			<td>Wielkość przychodów za rok poprzedni uprawniająca do opodatkowania ryczałtem ewidencjonowanym</td>
+			<td>2.000.000</td>
+			<td>9.218.200</td>
+		</tr>
+		<tr>
+			<td>Wielkość przychodów za rok poprzedni uprawniająca do opłacania ryczałtu kwartalnie</td>
+			<td>200.000</td>
+			<td>921.820</td>
+		</tr>
+		<tr>
+			<td>Kwota przychodów za rok poprzedni zobowiązująca do prowadzenia ksiąg rachunkowych</td>
+			<td>2.000.000</td>
+			<td>9.218.200</td>
+		</tr>
+		<tr>
+			<td>Wartość sprzedaży za poprzedni rok (wraz z kwotą należnego podatku VAT), której nieprzekroczenie powoduje, 
+			że podatnik ma status małego podatnika uprawnionego do jednorazowej amortyzacji i kwartalnego wpłacania zaliczek</td>
+			<td>2.000.000</td>
+			<td>9.218.000</td>
+		</tr>
+		<tr>
+			<td>Wartość środków trwałych, od których można dokonać jednorazowego odpisu amortyzacyjnego</td>
+			<td>50.000</td>
+			<td>230.000</td>
+		</tr>
+		<tr>
+			<td colspan="2">Wynagrodzenie minimalne od 01.01.2024 do 30.06.2024</td> 
+			<td>4.242 zł</td>
+		</tr>
+		<tr>
+			<td colspan="2">Wynagrodzenie minimalne od 01.07.2024 do 31.12.2024</td>
+			<td>4.300 zł</td>
+		</tr>
+		<tr>
+			<td colspan="2">Umowa zlecenia minimalna stawka godzinowa 01.01.2024 do 30.06.2024</td>
+			<td>27,70 zł </td>
+		</tr>
+		<tr>
+			<td colspan="2">Umowa zlecenia minimalna stawka godzinowa 01.07.2024 do 31.12.2024</td>
+			<td>28,10 zł</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<p>Aktualizacja 25.02.2024</p>

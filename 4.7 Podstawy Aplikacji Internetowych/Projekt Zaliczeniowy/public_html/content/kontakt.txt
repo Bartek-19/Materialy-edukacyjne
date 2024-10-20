@@ -1,0 +1,25 @@
+<h4>Kontakt</h4>
+<p>
+	Jeżeli są Państwo zainteresowani naszymi usługami lub chcą poznać szczegóły naszej oferty 
+	prosimy o kontakt telefoniczny lub informacje poprzez pocztę elektroniczną w celu umówienia 
+	spotkania w dogodnym dla Państwa miejscu i czasie.
+</p>
+<br>
+<p>
+	<strong>Kontakt:</strong>
+</p>
+<p>
+	Adres:<br>
+	Biuro Rachunkowe LIDER<br>
+	ul. Robotnicza 5a<br>
+	38-500 Sanok
+</p>
+<p>
+	Tel. 13 494 02 86, tel./fax 13 464 81 90<br>
+	Tel. kom. 607 452 531, 693 578 672
+</p>
+<br>
+<p>
+	e-mail:<br>
+	<a href="mailto:biuro@lider-sanok.pl">biuro@lider-sanok.pl</a>
+</p>

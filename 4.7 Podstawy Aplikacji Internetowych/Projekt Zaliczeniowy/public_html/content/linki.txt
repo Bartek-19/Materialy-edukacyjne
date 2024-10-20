@@ -1,0 +1,24 @@
+<h4>Przydatne linki</h4>
+<p>
+	<strong>Podatki i ubezpieczenia społeczne:</strong><br>
+	» <a href="http://www.mf.gov.pl/">Ministerstwo Finansów</a><br>
+	» <a href="http://www.zus.pl/">Zakład Ubezpieczeń Społecznych</a><br>
+	» <a href="https://www.podkarpackie.kas.gov.pl/urzad-skarbowy-w-sanoku">Urząd Skarbowy w Sanoku</a><br>
+	» <a href="http://www.krdp.pl/">Krajowa Izba Doradców Podatkowych</a><br>
+	» <a href="http://www.finanse.mf.gov.pl/abc-podatkow/kip/komunikaty">Krajowa Informacja Podatkowa</a><br>
+</p>
+<p>
+	<strong>Urzędy:</strong><br>
+	» <a href="http://www.nik.gov.pl/">Najwyższa Izba Kontroli</a><br>
+	» <a href="http://www.pip.gov.pl/">Państwowa Inspekcja Pracy</a><br>
+	» <a href="http://www.uokik.gov.pl/">Urząd Ochrony Konkurencji i Konsumenta</a><br>
+	» <a href="http://www.stat.gov.pl">Główny Urząd Statystyczny</a><br>
+	» <a href="http://www.sanok.pl">Urząd Miasta w Sanoku</a>
+</p>
+<p>
+	<strong>Wyszukiwanie podmiotów:</strong><br>
+	» <a href="https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/Search.aspx">Wyszukiwanie wpisów CEIDG</a><br>
+	» <a href="http://www.stat.gov.pl/regon/">Wyszukiwanie wpisów REGON</a><br>
+	» <a href="https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu">Wyszukiwanie podmiotów KRS</a><br>
+	» <a href="http://ec.europa.eu/taxation_customs/vies/?locale=pl">Potwierdzenie numeru VAT-UE</a>
+</p>

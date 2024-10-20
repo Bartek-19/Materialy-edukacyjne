@@ -1,0 +1,79 @@
+<form>
+                    <div class="pole">
+                        <h4>Formularz zgłoszeniowy</h4>
+                        <table style="width: 80%">
+                            <tr>
+                                <td class="left">Imię:</td>
+                                <td class="right"><input required id="imie" type="text" title="Imię powinno składać się wyłącznie z liter"></td>
+                            </tr>
+                            <tr>
+                                <td class="left">Nazwisko:</td>
+                                <td class="right"><input required id="nazwisko" type="text" title="Nazwisko powinno składać się wyłącznie z liter"></td>
+                            </tr>
+                            <tr>
+                                <td class="left">Nazwa firmy:</td>
+                                <td class="right"><input required id="nazwaFirmy" type="text" title="Należy podać nazwę firmy"></td>
+                            </tr>
+                            <tr>
+                                <td class="left">Adres e-mail:</td>
+                                <td class="right"><input required id="email" type="email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+" title="Adres email powinien mieć formę: xxxxx@xx.xx bez spacji pomiędzy znakami"></td>
+                            </tr>
+                            <tr>
+                                <td class="left">Numer telefonu do kontaktu:</td>
+                                <td class="right"><input required id="tel" type="tel" pattern="[0-9]{9}" title="Niepoprawny lub za krótki numer telefonu"></td>
+                            </tr>
+                            <tr>
+                                <td class="left">Forma prawna:</td>
+                                <td class="right">
+                                    <select name="forma" id="forma">
+                                        <option value="1">Działalność gospodarcza</option>
+                                        <option value="2">Fundacja/stowarzyszenie</option>
+                                        <option value="3">Prosta spółka akcyjna</option>
+                                        <option value="4">Spółka akcyjna</option>
+                                        <option value="5">Spółka cywilna</option>
+                                        <option value="6">Spółka jawna</option>
+                                        <option value="7">Spółka komandytowa</option>
+                                        <option value="8">Spółka komandytowo-akcyjna</option>
+                                        <option value="9">Spółka partnerska</option>
+                                        <option value="10">Spółka z o.o.</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="left">Płatnik VAT:</td>
+                                <td class="right">
+                                    <select name="vat" id="vat">
+                                        <option value="1">Tak</option>
+                                        <option value="2">Nie</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="left">Kupno/sprzedaż towarów/usług za granicę:</td>
+                                <td class="right">
+                                    <select name="export" id="export">
+                                        <option value="1">Tak</option>
+                                        <option value="2">Nie</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="left">Liczba dokumentów w miesiącu (około):</td>
+                                <td class="right"><input required id="dokumenty" type="number" min="0" title="Liczb dokumentów nie może być mniejsza niż 0"></td>
+                            </tr>
+                            <tr>
+                                <td class="left">Liczba pracowników - umowa o pracę:</td>
+                                <td class="right"><input required id="uop" type="number" min="0" title="Liczb pracowników nie może być mniejsza niż 0"></td>
+                            </tr>
+                            <tr>
+                                <td class="left">Liczba pracowników - umowa zlecenie:</td>
+                                <td class="right"><input required id="ucp" type="number" min="0" title="Liczb pracowników nie może być mniejsza niż 0"></td>
+                            </tr>
+                            <tr>
+                                <td class="right"><input type="reset" value="Anuluj" onclick="powrot()"></td>
+                                <td class="left"><input type="submit" value="Dalej" onsubmit="podsumowanie()"></td>
+                            </tr>
+                        </table>
+                    </div>
+                </form>
+                <br>

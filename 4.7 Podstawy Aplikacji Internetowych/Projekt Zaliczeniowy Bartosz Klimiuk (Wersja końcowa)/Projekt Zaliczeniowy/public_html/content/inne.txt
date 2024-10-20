@@ -1,0 +1,24 @@
+<h4>Inne usługi</h4>
+<p>
+	» Pomoc w założeniu firmy i wyborze formy opodatkowania,
+</p>
+<p>
+	» Reprezentowanie podatnika przed Urzędem Skarbowym, Urzędem Statystycznym i innymi urzędami w zakresie naszego umocowania,
+</p>
+<p>
+	» Usługi biurowe – przepisywanie tekstów, pisanie podań i pism, sporządzanie umów cywilnoprawnych,
+</p>
+<p>
+	» Wypełnianie zeznań rocznych w zakresie osiągniętego dochodu
+</p>
+<p>
+	Opcjonalnie nasza usługa może obejmować również rozszerzoną obsługę rozrachunków - przygotowanie płatności 
+	dla dostawców, wezwania do zapłaty, noty odsetkowe, potwierdzenia sald.
+</p>
+<p>
+	W celu uzyskania szczegółowych informacji prosimy o kontakt telefoniczny lub osobisty w siedzibie naszego biura.
+</p>
+<br>
+<a class="btn btn-primary btn-sm" href="#!" onclick="wyswietl(3)">
+	Powrót
+</a>

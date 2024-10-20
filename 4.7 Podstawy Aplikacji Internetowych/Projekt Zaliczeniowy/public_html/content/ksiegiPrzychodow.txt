@@ -1,0 +1,29 @@
+<h4>Podatkowa księga przychodów i rozchodów, ryczałt ewidencjonowany</h4>
+<p>
+	<strong>W ramach prowadzenia podatkowych ksiąg przychodów i rozchodów lub ewidencji ryczałtu:</strong>
+</p>
+<p>
+	» Dokonujemy zapisów w PKPiR lub ewidencji ryczałtu,
+</p>
+<p>
+	» Prowadzimy ewidencje wyposażenia,
+</p>
+<p>
+	» Sporządzamy plan amortyzacji środków trwałych oraz prowadzimy ewidencje środków trwałych, a także wartości niematerialnych i prawnych,
+</p>
+<p>
+	» Ustalamy wysokość miesięcznych zaliczek na podatek dochodowy,
+</p>
+<p>
+	» Prowadzimy ewidencje VAT,
+</p>
+<p>
+	» Sporządzamy deklaracje podatkowe,
+</p>
+<p>
+	» Sporządzamy przelewy dot. należności publicznoprawnych (ZUS, US).
+</p>
+<br>
+<a class="btn btn-primary btn-sm" href="#!" onclick="wyswietl(3)">
+	Powrót
+</a>
