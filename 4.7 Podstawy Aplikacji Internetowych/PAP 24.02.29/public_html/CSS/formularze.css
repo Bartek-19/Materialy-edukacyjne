@@ -1,0 +1,19 @@
+#przyklad {
+    background: #66ff66;
+    border: 2pt;
+    border-color:#ccff00;
+    border-style: dashed;
+    padding: 5pt;
+}
+
+table, tr, td {
+    padding: 0pt;
+}
+
+.check input:checked {
+    background-color: #006600
+}
+
+.zielony {
+    
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+    <head>
+        <title>Sklep</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="JS/script.js"></script>
+        <link rel="stylesheet" href="CSS/style.css" type="text/css">
+    </head>
+    <body>
+        <div id="Zakupy">
+            <fieldset id="Pole">
+                <legend>Wprowadź informacje o produkcie</legend>
+                <table id="Formularz">
+                    <tbody>
+                        <tr><td>Nazwa Produktu</td><td><input type="text" id="Nazwa" required></td></tr>
+                        <tr><td>Cena</td><td><input type="number" id="Cena" min="0.0" required></td></tr>
+                        <tr><td>Kolor</td><td><input type="text" id="Kolor"></td></tr>
+                        <tr><td>Liczba sztuk</td><td><input type="number" id="Sztuki" min="0" required></td></tr>
+                    </tbody>
+                </table>
+                <button id="Zapisz" onclick="Zapisz()">Zapisz produkt do koszyka</button>
+            </fieldset>
+        </div>
+        <br>
+        <div id="Produkty">
+            <button id="Wyswietl" onclick="Wyswietl()">Wyswietl zawartość koszyka</button><br>
+            <table id="ListaProduktow">
+                
+            </table>
+        </div>
+        <br>
+        <div id="Usuwanie">
+            <button id="UsunProdukty" onclick="UsunProdukty()">Usun wszystkie produkty</button>
+            <button id="Wybor" onclick="Wybor()">Usun wybrany produkt</button> <br>
+            <div id="Info"></div>
+        </div>
+    </body>
+</html>

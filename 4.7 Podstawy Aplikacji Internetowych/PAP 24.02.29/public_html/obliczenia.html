@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formularz obliczeniowy</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="CSS/style.css" type="text/css">
+        <link rel="stylesheet" href="CSS/formularze.css" type="text/css">
+        <script src="JS/obliczenia.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+        </script>
+    </head>
+    <body>
+        <script>
+            $(document).ready(function() {
+                $('#tresc').css('background', '#808080');
+                $('input').css('font-weight', 'bold');
+                $('#rata').addClass('zielony');
+                $('#suma').addClass('zielony');
+                $('.zielony').css('background-color', '#0f0');
+                $('#oblicz').click(function wartoscPozyczki(){
+                    var kwota=document.getElementById("kwota");
+                    kwota = parseFloat(kwota.value);
+                    var raty = document.getElementById("raty");
+                    raty = parseInt(raty.value);
+                    var procent = document.getElementById("procent");
+                    procent = parseFloat(procent.value)/100.0;
+                    var rata = document.getElementById("rata");
+                    var r = (kwota*procent/12)/(1-1/(1+procent/12)**raty);
+                    r = Math.round(r * 100);
+                    r /= 100;
+                    rata.value = r;
+                    var suma = document.getElementById("suma");
+                    suma.value = Math.round(r * raty * 100)/100;
+                });
+            });
+        </script>
+        <div id="container">
+            <div id="tytul">
+                <h2>Szybki kurs HTML<br></h2>
+            </div>
+            <div id="menu"> 
+                <ul id="nav">
+                    <li><a href="index.html">Podstawowe znaczniki</a></li>
+                    <li><a href="tabele.html"> Tworzenie tabel</a></li>
+                    <li><a href=""> Formularze</a>
+                        <ul> 
+                            <li><a href="formularze.html" >Pola formularza</a></li> 
+                            <li><a href="obliczenia.html" >Obliczenia w formularzu</a></li> 
+                        </ul>
+                    </li> 
+                    <li><a href="galeria.html" title="">Galeria</a></li>
+                </ul>
+            </div>
+            <div id="tresc">
+                <h3>Pożyczka<br></h3>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>Kwota:</td>
+                            <td><input type="number" min="0" id="kwota"></td>
+                        </tr>
+                        <tr>
+                            <td>Ile rat:</td>
+                            <td><input type="number" min="0" id="raty"></td>
+                        </tr>
+                        <tr>
+                            <td>Procent:</td>
+                            <td><input type="number" min="0" max="2000" id="procent"></td>
+                        </tr>
+                        <tr>
+                            <td>Rata miesięczna:</td>
+                            <td><input class="zielony" type="number" disabled value="0.00" id="rata"></td>
+                        </tr>
+                        <tr>
+                            <td>Suma:</td>
+                            <td><input class="zielony" type="number" disabled value="0.00" id="suma"></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <button id="oblicz">Oblicz ratę stałą</button>
+            </div>
+            <div id="pasek">
+                <div class="box">
+                    <h3>Walidatory:</h3>
+                    <ul>
+                        <li> <a href="http://validator.w3.org/">HTML </a></li>
+                        <li> <a href="http://jigsaw.w3.org/css-validator/">CSS</a></li>
+                    </ul>
+                </div>
+                <div class="box">
+                    <h3>Kursy:</h3>
+                    <ul>
+                        <li> <a href="https://www.w3schools.com/html/"> HTML </a></li>
+                        <li> <a href="https://www.w3schools.com/css/"> CSS </a></li>
+                        <li> <a href="https://www.w3schools.com/js/"> JS </a></li>
+                        <li> <a href="https://www.w3schools.com/php/"> PHP </a></li>
+                    </ul>
+                </div> 
+            </div>
+            <div id="stopka">&copy;Mydlarz</div>
+        </div>
+    </body>
+</html>

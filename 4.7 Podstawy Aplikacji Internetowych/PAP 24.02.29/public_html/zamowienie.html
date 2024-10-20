@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zamówienie Pizzy</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div id="naglowek">
+            <h1>Kreator pizzy<br></h1>
+            <a href="index.html"> Powrót</a><br><br>
+        </div>
+        <div id="zamowienie">
+        <form action="mailto:s99576@pollub.edu.pl" method="post">
+            <fieldset name="rozmiar">
+                <legend>Rozmiar:</legend>
+                <input type="radio" name="size" value="S"> Mała
+                <input type="radio" name="size" value="M"> Średnia
+                <input type="radio" name="size" value="L"> Duża
+            </fieldset>
+            <fieldset name="dodatki">
+                <legend>Dodatki:</legend>
+                <input type="checkbox" name="szynka" value="1"> Szynka <br>
+                <input type="checkbox" name="salami" value="2"> Salami <br>
+                <input type="checkbox" name="boczek" value="3"> Boczek <br>
+                <input type="checkbox" name="papryka" value="4"> Papryka <br>
+                <input type="checkbox" name="burrata" value="5"> Burrata <br>
+                <input type="checkbox" name="rukola" value="6"> Rukola <br>
+                <input type="checkbox" name="pieczarki" value="7"> Pieczarki <br>
+            </fieldset>
+            <fieldset name="sosy">
+                <legend>Sosy:</legend>
+                Wybierz sosy:
+                <select size="4" name="sosy" multiple="multiple">
+                    <option value="p">Pomidorowy</option>
+                    <option value="cz">Czosnkowy</option>
+                    <option value="lag">Keczup łagodny</option>
+                    <option value="ost">Keczup ostry</option>
+                    <option value="sal">Salsa</option>
+                </select>
+                <br>Inne uwagi:
+                <textarea name="uwagi" rows="5" cols="70"></textarea>
+            </fieldset>
+            <br>
+            <input type="submit" value="wyslij">
+            <input type="reset" value="wyczysc">
+        </form>
+        </div>
+    </body>
+</html>

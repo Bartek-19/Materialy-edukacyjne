@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formularze</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="CSS/style.css" type="text/css">
+        <link rel="stylesheet" href="CSS/formularze.css" type="text/css">
+    </head>
+    <body>
+        <div id="container">
+            <div id="tytul">
+                <h2>Szybki kurs HTML<br></h2>
+            </div>
+            <div id="menu"> 
+                <ul id="nav">
+                    <li><a href="index.html">Podstawowe znaczniki</a></li>
+                    <li><a href="tabele.html"> Tworzenie tabel</a></li>
+                    <li><a href=""> Formularze</a>
+                        <ul> 
+                            <li><a href="formularze.html" >Pola formularza</a></li> 
+                            <li><a href="obliczenia.html" >Obliczenia w formularzu</a></li> 
+                        </ul>
+                    </li> 
+                    <li><a href="galeria.html" title="">Galeria</a></li>
+                </ul>
+            </div>
+            <div id="tresc">
+                <h3>Podstawowe znaczniki w HTML to:<br></h3>
+                <ul>
+                    <li>&lt;form&gt; - znacznik podstawowy zawierający pola formularza</li>
+                    <li>&lt;input&gt; - znacznik umożliwia wstawienie różnych pól (pole tekstowe, przycisk typu radio, przycisk typu checkbox) w zależności od jego atrybutu type</li>
+                    <li>&lt;select&gt; - pole formularza typu lista rozwijana</li>
+                    <li>&lt;textarea&gt; - pole formularza typu obszar tekstowy</li>
+                    <li>&lt;button&gt; - pole formularza typu przycisk</li>
+                </ul>
+                <div id="przyklad">
+                <h3>Przykład formularza HTML:<br></h3>
+                <form>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    Nazwisko:
+                                </td>
+                                <td>
+                                    <input required type="text" title="sname" pattern="[A-Z]+{1,}">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Wiek:
+                                </td>
+                                <td>
+                                    <input required type="number" title="age" min="1">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Państwo:
+                                </td>
+                                <td>
+                                    <select size="1" name="country">
+                                        <option value="PL">Polska</option>
+                                        <option value="UA">Ukraina</option>
+                                        <option value="SL">Słowacja</option>
+                                        <option value="CZ">Republika Czeska</option>
+                                        <option value="DE">Niemcy</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Adres e-mail:
+                                </td>
+                                <td>
+                                    <input required type="email" title="mail" pattern="[^@\s]+@[^@\s]+\.[^@\s]+">
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <h5>Zamawiam tutorial z języka:<br></h5>
+                    <input class="check" type="checkbox" name="php" value="php"> PHP
+                    <input class="check" type="checkbox" name="c" value="c"> C/C++
+                    <input class="check" type="checkbox" name="java" value="java"> Java
+                    <br>
+                    <h5>Sposób zapłaty:<br></h5>
+                    <input required type="radio" name="zaplata" value="eurocard"> Eurocard
+                    <input type="radio" name="zaplata" value="visa"> Visa
+                    <input type="radio" name="zaplata" value="przelew"> Przelew bankowy
+                    <br><br>
+                    <input type="submit" value="wyslij">
+                    <input type="reset" value="wyczysc">
+                </form>
+                </div>
+            </div>
+            
+            <div id="pasek">
+                <div class="box">
+                    <h3>Walidatory:</h3>
+                    <ul>
+                        <li> <a href="http://validator.w3.org/">HTML </a></li>
+                        <li> <a href="http://jigsaw.w3.org/css-validator/">CSS</a></li>
+                    </ul>
+                </div>
+                <div class="box">
+                    <h3>Kursy:</h3>
+                    <ul>
+                        <li> <a href="https://www.w3schools.com/html/"> HTML </a></li>
+                        <li> <a href="https://www.w3schools.com/css/"> CSS </a></li>
+                        <li> <a href="https://www.w3schools.com/js/"> JS </a></li>
+                        <li> <a href="https://www.w3schools.com/php/"> PHP </a></li>
+                    </ul>
+                </div> 
+            </div>
+            <div id="stopka">&copy;Mydlarz</div>
+        </div>
+    </body>
+</html>

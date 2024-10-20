@@ -1,0 +1,39 @@
+body {
+    background-color: #f0ffff;
+    padding: 10%; 
+    font-family: sans-serif;
+}
+
+#ListaProduktow th {
+    background-color:#5be1ff;
+    font-weight: 700;
+    border-color: black;
+    border-width: medium;
+    border: 1pt;
+    width: 150px;
+    margin-bottom: 1pt;
+}
+
+#ListaProduktow td {
+    background-color: #beffff;
+    border-color: black;
+    border-width: thin;
+    border: 1pt;
+}
+
+#ListaProduktow * {
+    margin: 1pt;
+}
+
+legend {
+    font-weight: bold;
+}
+
+#Pole {
+    background-color: #ffffae;
+}
+
+button {
+    background-color: #ffffff;
+    margin: 10px;
+}

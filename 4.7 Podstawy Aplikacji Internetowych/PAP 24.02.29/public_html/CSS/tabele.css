@@ -1,0 +1,31 @@
+table {
+    background: lightyellow;
+    text-align: center;
+    width: 94%;
+    margin: 2%;
+    border: 1pt;
+    border-color: midnightblue;
+    border-style: double;
+}
+
+caption {
+    font-size: 120%;
+    font-weight: 700;
+}
+
+thead, tfoot {
+    background: #0000a0;
+    color: #ffffff;
+    font-size: 110%;
+    padding: 5pt;
+}
+
+td, th {
+    border: 1pt;
+    border-color: midnightblue;
+    border-style: solid;
+}
+
+tfoot a {
+    color: #fff;
+}
