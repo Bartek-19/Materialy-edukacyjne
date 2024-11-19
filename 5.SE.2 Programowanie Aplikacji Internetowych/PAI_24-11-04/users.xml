@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users> 
+    <user> 
+        <userName>admin</userName>
+        <passwd>admin</passwd> 
+        <fullName>Administrator</fullName> 
+        <email>admin@gmail.com</email> 
+        <date>2018-09-10</date> 
+        <status>2</status>         
+    </user> 
+    <user> 
+        <userName>beatap</userName> 
+        <passwd>beatap</passwd> 
+        <fullName>Beata P.</fullName> 
+        <email>beatap@gmail.com</email> 
+        <date>2018-10-10</date> 
+        <status>1</status>         
+    </user> 
+    <user>
+        <userName>user123</userName>
+        <passwd>$2y$10$3a0Lg8ftKn/1bEc8g0P27e.5cxOi8LCJesjDVVeHNpX5P.5DgnSm6</passwd>
+        <fullName>Jan Kowalski</fullName>
+        <email>jan@usz.com</email>
+        <date>2024-11-17</date>
+        <status>1</status>
+    </user>
+    <user>
+        <userName>user123</userName>
+        <passwd>$2y$10$TOSDjWiGHoD.zHfdUodjEelFezqBuuJT2aVDHm6DPZNy2.T1DvIVa</passwd>
+        <fullName>Jan Kowalski</fullName>
+        <email>jan@usz.com</email>
+        <date>2024-11-17</date>
+        <status>1</status>
+    </user>
+    <user>
+        <userName>user123</userName>
+        <passwd>$2y$10$r2VGYO2bBdkGEAPJzGUw..l/Z7227RCaxnNjXsMyoBBwm/.vavvRm</passwd>
+        <fullName>Jan Kowalski</fullName>
+        <email>jan@usz.com</email>
+        <date>2024-11-17</date>
+        <status>1</status>
+    </user>
+<user><userName>user321</userName><passwd>$2y$10$5wC7fK.gSBp8Su/ip4CVieRoG2jno3KJ2EJ8PK8ezufbI2CpBDhFG</passwd><fullName>Aabscie</fullName><email>jandji@jsne.com</email><date>2024-11-18</date><status>1</status></user></users>
