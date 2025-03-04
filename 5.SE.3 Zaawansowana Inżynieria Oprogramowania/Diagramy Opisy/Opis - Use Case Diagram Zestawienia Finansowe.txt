@@ -1,0 +1,1 @@
+Diagram przypadków użycia „Use Case Diagram Zestawienie Finansowe” przedstawia funkcjonalności systemu umożliwiające właścicielowi klubu tworzenie miesięcznych i rocznych zestawień finansowych. Funkcje te mają na celu usprawnienie zarządzania finansami oraz wspieranie efektywnego prowadzenia działalności klubu.

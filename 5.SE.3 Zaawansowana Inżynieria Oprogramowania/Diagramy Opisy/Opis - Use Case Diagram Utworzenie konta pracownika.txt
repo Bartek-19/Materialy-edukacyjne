@@ -1,0 +1,2 @@
+Diagram przypadków użycia "Use Case Diagram Utworzenie konta pracownika" przedstawia przypadek użycia tworzenia konta pracownika i dodanie go do systemu. Dany przypadek użycia wymaga od administratora systemu wykonanie podanego przypadku użycia, natomiast od strony pracownika dany przypadek użycia występuje w formie potwierdzenia swojego konta poprzez wiadomość e-mail.
+Podany diagram ma za zadanie przedstawienie przypadku użycia z obu stron uczestniczących w danym procesie. 

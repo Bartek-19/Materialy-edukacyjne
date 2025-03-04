@@ -1,0 +1,7 @@
+Diagram pakietów przedstawia podział systemu OK-KSW na sześć pakietów:
+- Konta Pracowników - służący do wdrożenia do systemu konta trenera/magazyniera przed interakcją owych aktorów z pozostałą częścią systemu
+- Konta Użytkowników - stanowi pakiet przedstawiający część systemu, w której jedynym aktorem jest Członek klubu, samodzielnie odpowiadający za wykonywanie przypisanych mu interakcji z systemem
+- Harmonogramy - pakiet, którego celem działania jest organizacja pracy klubu dla aktorów korzystających z jego usług
+- Treningi - pakiet, który odpowiada za świadczone przez klub usługi
+- Magazyn - stanowi pakiet, który jest odpowiedzialny za sprzęt sportowy dostępny stacjonarnie dla osób ćwiczących
+- Zestawienia finansowe - pakiet odpowiedzialny za kontrolę nad finansami klubu, którego głównym aktorem jest Właściciel

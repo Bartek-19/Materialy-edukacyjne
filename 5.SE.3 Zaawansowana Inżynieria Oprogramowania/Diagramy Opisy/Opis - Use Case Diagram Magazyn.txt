@@ -1,0 +1,1 @@
+Diagram przypadku użycia "Use Case Diagram Magazyn" prezentuje powiązanie przypadków użycia wykorzystujących pracę magazynu z użytkownikami systemu. W przypadku danego diagramu widać, że w pracę magazynu ze sprzętem sportowym zaangażowani są wszyscy aktorzy występujący w systemie, a magazynier jest powiązany w większość interakcji pozostałych użytkowników z magazynem.

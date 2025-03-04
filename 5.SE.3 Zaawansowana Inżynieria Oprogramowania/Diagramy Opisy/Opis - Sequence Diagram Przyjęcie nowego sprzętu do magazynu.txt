@@ -1,0 +1,1 @@
+Diagram sekwencji "Sequence Diagram Przyjęcie nowego sprzętu do magazynu" przedstawia proces umieszczania w systemie informacji o nowo nabytym przez klub sportowy sprzęcie sportowym. Dany proces następuje po odbiorze przez oddelegowanego pracownika zamówienia z zakupionymi produktami.

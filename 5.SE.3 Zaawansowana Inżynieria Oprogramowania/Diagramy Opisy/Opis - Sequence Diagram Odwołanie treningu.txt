@@ -1,0 +1,1 @@
+Diagram sekwencji "Sequence Diagram Odwołanie treningu" przedstawia proces odwołania treningu przez trenera. Zadaniem tego procesu jest przekazanie tej informacji do wszystkich członków klubu zapisanych na dany trening.

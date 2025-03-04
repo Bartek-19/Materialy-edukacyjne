@@ -1,0 +1,1 @@
+Diagram aktywności "Activity Diagram Przyjęcie nowego sprzętu do magazynu" przedstawia proces przyjmowania nowego sprzętu sportowego do magazynu w sposób zbliżony do diagramu sekwencji "Sequence Diagram Przyjęcie nowego sprzętu do magazynu", jednakże robiąc to z naciskiem na przedstawienie procesów, zamiast komunikacji.

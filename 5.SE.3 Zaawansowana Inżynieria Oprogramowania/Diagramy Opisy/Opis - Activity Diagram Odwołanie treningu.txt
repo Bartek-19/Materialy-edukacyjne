@@ -1,0 +1,1 @@
+Diagram aktywności "Activity Diagram Odwołanie treningu" w sposób zwięzły przedstawia proces odwołania treningu przez trenera. Ze względu na duże uogólnienie diagramu, koniecznie musiałby on zostać poszerzony o diagramy bardziej szczegółowe (np.. BPMN), aby przedstawić precyzyjny przebieg całego procesu.

@@ -1,0 +1,1 @@
+Diagram aktywności "Activity Diagram Utworzenie konta pracownika" przedstawia sekwencję procesów i aktywności dążących do utworzenia konta pracownika. Podobnie jak w diagramie sekwencji "Sequence Diagram Utworzenie konta pracownika" wykorzystuje zapętloną strukturę decyzyjną w celu podjęcia działania dążącego do utworzenia lub zaniechania utworzenia konta pracownika w systemie.

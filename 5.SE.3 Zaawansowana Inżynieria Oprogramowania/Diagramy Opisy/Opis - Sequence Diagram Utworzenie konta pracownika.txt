@@ -1,0 +1,1 @@
+Diagram sekwencji "Sequence Diagram Utworzenie konta pracownika" przedstawia pełen proces komunikacji podczas tworzenia w systemie konta pracownika. Do utworzenia konta w przypadku tego diagramu wykorzystany został obiekt klasy KreatorKontaPracownika, który jest obiektem pomocniczym dla interakcji Administratora i Pracownika z systemem, automatyzującym ich komunikację.
