@@ -1,0 +1,64 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+  <xs:simpleType name="nonNegativeInteger">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="0"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="formularzZgloszeniowy">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="daneZawodow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nazwaZawodow" type="xs:string"/>
+              <xs:element name="organizator" type="xs:string"/>
+              <xs:element name="dataZawodow" type="xs:date"/>
+              <xs:element name="nazwaObiektu" type="xs:string"/>
+              <xs:element name="adresObiektu" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="daneZawodnika">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="imie" type="xs:string"/>
+              <xs:element name="nazwisko" type="xs:string"/>
+              <xs:element name="dataUrodzenia" type="xs:date"/>
+              <xs:element name="adresZamieszkania" type="xs:string"/>
+              <xs:element name="nrTel" type="xs:string"/>
+              <xs:element name="email" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="informacjeSportowe">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nazwaKlubuMacierzystego" type="xs:string"/>
+              <xs:element name="trener" type="xs:string"/>
+              <xs:element name="stopien" type="xs:string"/>
+              <xs:element name="kategoria" type="xs:string"/>
+              <xs:element name="waga" type="xs:nonNegativeInteger"/>
+              <xs:element name="wzrost" type="xs:nonNegativeInteger"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="osobaKontaktowa">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="imieOsobyKontaktowej" type="xs:string"/>
+              <xs:element name="nazwiskoOsobyKontaktowej" type="xs:string"/>
+              <xs:element name="nrTelOsobyKontaktowej" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="oswiadczenie">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="trescOswiadczenia" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

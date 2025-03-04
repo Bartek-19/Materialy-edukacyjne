@@ -1,0 +1,69 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="formularz">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="daneOsobowe">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="imieNazwisko"/>
+              <xs:element type="xs:string" name="adres"/>
+              <xs:element type="xs:string" name="email"/>
+              <xs:element type="xs:string" name="telefon"/><!-- \d{3}-\d{3}-\d{3}-->
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="zwracanyTowar">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="numerDokumentuSprzedazy"/>
+              <xs:element name="listaTowarow">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="pozycja" maxOccurs="5" minOccurs="1">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="nazwaTowaru"/>
+                          <xs:element type="xs:byte" name="ilosc"/>
+                          <xs:element type="xs:float" name="cena"/>
+                          <xs:element type="xs:byte" name="nrPowodu"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="powodyZwrotu">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="powod1"/>
+                    <xs:element type="xs:string" name="powod2"/>
+                    <xs:element type="xs:string" name="powod3"/>
+                    <xs:element type="xs:string" name="powod4"/>
+                    <xs:element type="xs:string" name="powod5"/>
+                    <xs:element type="xs:string" name="powod6"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element type="xs:float" name="wartośćZwracanegoTowaru"/>
+              <xs:element type="xs:date" name="dataZakupu"/>
+              <xs:element type="xs:string" name="podpis"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="daneDoZwrotuŚrodków">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="zgoda"/>
+              <xs:element type="xs:string" name="numerRachunkuBankowego"/>
+              <xs:element type="xs:string" name="imieNazwisko"/>
+              <xs:element type="xs:string" name="adres"/>
+              <xs:element type="xs:date" name="data"/>
+              <xs:element type="xs:string" name="podpis"/>
+              <xs:element type="xs:string" name="uwaga"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

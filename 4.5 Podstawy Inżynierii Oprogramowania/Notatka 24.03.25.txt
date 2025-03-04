@@ -1,0 +1,146 @@
+> Siłownia
+- Właściciel siłowni
+- Kasjerka
+- Trener
+
+> Stadion
+- Administrator stadionu
+- Kierownik sektora stadionu
+- Kasjerzy
+- Ochrona/bileciarze
+- Obsługa utrzymania stadionu
+
+> Mafia włoska
+- Don
+- Consilliere
+- Żona dona
+- Osoby spokrewnione niezwiązane z mafią (oficjalnie)
+- "Mięśień"
+- Pozostałe osoby od brudnej roboty
+- Osoby wpływowe w polityce
+- Osoby wpływowe w świecie celebrytów
+...
+
+> Magazyn
+- Kierownik magazynu
+- Magazynier
+- Wózkowy
+- Panie do liczenia papierosów
+
+> Szkoła specjalna
+- Dyrektor
+- Sekretarka
+- księgowa
+- Wicedyrektor
+- Nauczyciel
+- Woźne
+- Konserwatorzy
+- Kierowca
+
+> Politechnika
+- Rektor
+- Prorektor
+- Dziekan
+- Prodziekan
+- Kierownik katedry
+- Profesorek
+- Doktur
+- Magister
+- Bibliotekarka
+- Szatniarka
+- Wuefista
+- Fejsbukowi influenserzy (Samorząd studencki)
+
+> Złomowisko
+- Właściciel
+- Pracownik
+
+> Produkcja złomu i fabryka mydła
+- Kierownik fabryki
+- Kierownik produkcji
+- Szary pracownik
+- Księgowa
+- Brygadzista
+- 
+
+> Wytwórnia muzyki disco polo
+Rola: Właściciel wytwórni (cwaniak)
+1. 
+
+Rola: Technik akustyki
+1. 
+
+Rola: Zniewoleni umowami piosenkarze z zespołami
+1. 
+
+> Klub sportów walki 
+Rola: Trener główny (właściciel klubu)
+1. Uiszczanie opłat wynikających z racji prowadzenia klubu
+- Opłacenie współpracowników
+- Opłacenie czynszu za salę/rachunków
+- Opłacenie podatku dochodowego
+- Opłacenie składki zdrowotnej i emerytalnej
+- Opłacenie usług księgowych
+2. Zakup sprzętu
+- Znalezienie odpowiedniego sprzętu
+- Przekazanie zamówienia odpowiedzialnemu współpracownikowi zamówienia
+3. Zbieranie opłat za treningi
+- Przypominanie o uiszczeniu miesięcznej opłaty za treningi
+- Udokumentowanie wpłaty
+4. Prowadzenie treningu
+- Zaplanowanie technik przerabianych na treningach
+- Planowanie wykorzystania czasu podczas treningu
+5. Nadawanie stopni uczniom
+- Wybór daty przeznaczonej na promocje na wyższe stopnie
+- Podsumowanie progresu każdego z uczniów/Przeprowadzenie egzaminu na wyższy stopień
+- Przyznanie/Odrzucenie promocji na wyższy stopień
+6. Organizacja udziału w wydarzeniach pozaklubowych
+- Organizacja wyjazdów na wydarzenia szkoleniowe
+- Organizacja wyjazdów klubowych na zawody
+- Wprowadzenie okresu przygotowawczego przed zawodami
+
+Rola: Trener zastępczy
+1. Prowadzenie treningu
+- Zaplanowanie technik przerabianych na treningach
+- Planowanie wykorzystania czasu podczas treningu
+2. Odpowiadanie na indywidualne pytania uczniów
+- Analiza problemu
+- Sprecyzowanie pytania
+- Objaśnienie
+- Demonstracja
+3. Wyjazd z zawodnikami na zawody
+- Organizacja transportu na zawody
+- Przygotowanie zawodników do startu zawodów
+- Porady praktyczne w trakcie udziału w zawodach
+4. Wprowadzanie nowych rozwiązań w treningach
+- Wyszukiwanie sprawdzonych niuansów treningowych
+- Udział w wydarzeniach szkoleniowych
+- Analiza bierzących wydarzeń w dziedzinie danego sportu
+5. Analiza zawodników po zawodach
+- Analiza materiałów wideo 
+- Zapamiętanie błędów wykonanych przez zawodników z klubu
+- Przedstawienie błędów podczas treningów 
+- Zaprezentowanie rozwiązań na poprawę błędów
+
+Rola: Osoba od obsługi marketingu
+1. Prowadzenie strony internetowej klubu
+- Aktualizowanie informacji organizacyjnych 
+- Aktualizowanie informacji kontaktowych
+- Obsługa formularzy zgłoszeniowych (w przypadku stosowania karnetów w danym klubie)
+2. Prowadzenie mediów społecznościowych
+- Zamieszczanie aktualnych informacji związanych z działalnością klubu
+- Zamieszczanie informacji o naborze prowadzonym w klubie
+- Zamieszczanie materiałów promocyjnych
+- Odpowiadanie na wiadomości od użytkowników mediów społecznościowych 
+3. Tworzenie materiałów promocyjnych
+- Nagrywanie filmów promocyjnych
+- Montowanie filmów promocyjnych
+- Robienie zdjęć promocyjnych
+- Przesyłanie informacji o osiągnięciach klubu do lokalnych dziennikarzy sportowych 
+4. Organizacja sponsorów dla klubu
+- Kontaktowanie się z potencjalnymi sponsorami
+- Negocjowanie warunków wspierania klubu
+5. Zawieranie umów z producentami sprzętu sportowego
+- Kontaktowanie się z firmami zajmującymi się produkcją sprzętu
+- Ustalanie promocji dla klubu na zamówienia od danego producenta
+- Składanie zamówień dla klubu

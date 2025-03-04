@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<formularz>
+    <daneOsobowe>
+        <imieNazwisko></imieNazwisko>
+        <adres></adres>
+        <email></email>
+        <telefon></telefon>
+    </daneOsobowe>
+    <zwracanyTowar>
+        <numerDokumentuSprzedazy></numerDokumentuSprzedazy>
+        <listaTowarow>
+            <pozycja id="p1">
+                1.
+                <nazwaTowaru></nazwaTowaru>
+                <ilosc></ilosc>
+                <cena></cena>
+                <nrPowodu></nrPowodu>
+            </pozycja>
+            <pozycja id="p2">
+                2.
+                <nazwaTowaru></nazwaTowaru>
+                <ilosc></ilosc>
+                <cena></cena>
+                <nrPowodu></nrPowodu>
+            </pozycja>
+            <pozycja id="p3">
+                3.
+                <nazwaTowaru></nazwaTowaru>
+                <ilosc></ilosc>
+                <cena></cena>
+                <nrPowodu></nrPowodu>
+            </pozycja>
+            <pozycja id="p4">
+                4.
+                <nazwaTowaru></nazwaTowaru>
+                <ilosc></ilosc>
+                <cena></cena>
+                <nrPowodu></nrPowodu>
+            </pozycja>
+            <pozycja id="p5">
+                5.
+                <nazwaTowaru></nazwaTowaru>
+                <ilosc></ilosc>
+                <cena></cena>
+                <nrPowodu></nrPowodu>
+            </pozycja>
+        </listaTowarow>
+        <powodyZwrotu>
+            <powod1>1. Produkt różni się od tego na zdjęciu </powod1>
+            <powod2>2. Produkt uszkodzony/wadliwy </powod2>
+            <powod3>3. Otrzymałem błędny produkt</powod3>
+            <powod4>4. Zła jakość produktu</powod4>
+            <powod5>5. Opóźnienie dostawy</powod5>
+            <powod6>6. Inne....................</powod6>
+        </powodyZwrotu>
+        <wartośćZwracanegoTowaru></wartośćZwracanegoTowaru>
+        <dataZakupu></dataZakupu>
+        <podpis></podpis>
+    </zwracanyTowar>
+    <daneDoZwrotuŚrodków>
+        <zgoda>
+            Wyrażam zgodę na zwrot środków przelewem na dane zamieszczone poniżej *
+        </zgoda>
+        <numerRachunkuBankowego></numerRachunkuBankowego>
+        <imieNazwisko></imieNazwisko>
+        <adres></adres>
+        <data></data>
+        <podpis></podpis>
+        <uwaga>
+            * Uwaga! Jeśli płatność została dokonana przez system internetowy typu PayU, Przelewy24 itp. wówczas środki są zwracane na ten sam rachunek z którego płatność została dokonana (przez ten sam system płatniczy)
+        </uwaga>
+    </daneDoZwrotuŚrodków>
+</formularz>

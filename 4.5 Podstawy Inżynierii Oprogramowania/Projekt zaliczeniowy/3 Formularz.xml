@@ -1,0 +1,33 @@
+<formularzZgloszeniowy>
+		<daneZawodow>
+			<nazwaZawodow>Karate Championships</nazwaZawodow>
+			<organizator>Klub Karate Kyokushin</organizator>
+			<dataZawodow>2024-07-15</dataZawodow>
+			<nazwaObiektu>Hala Sportowa "Kyokushin Arena"</nazwaObiektu>
+			<adresObiektu>ul. Zielona 12/A, 80-001 Gdańsk </adresObiektu>
+		</daneZawodow>
+	<daneZawodnika>
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<dataUrodzenia>2000-05-10</dataUrodzenia>
+		<adresZamieszkania>ul. Kwiatowa 5/3, 90-123 Poznań</adresZamieszkania>
+		<nrTel>123456789</nrTel>
+		<email>jan.kowalski@example.com</email>
+	</daneZawodnika>
+	<informacjeSportowe>
+		<nazwaKlubuMacierzystego>Klub Sportow Walki</nazwaKlubuMacierzystego>
+		<trener>Marek Nowak</trener>
+		<stopien>Dan 1</stopien>
+		<kategoria>Senior</kategoria>
+		<waga>75</waga>
+		<wzrost>180</wzrost>
+	</informacjeSportowe>
+	<osobaKontaktowa>
+		<imieOsobyKontaktowej>Maria</imieOsobyKontaktowej>
+		<nazwiskoOsobyKontaktowej>Kowalska</nazwiskoOsobyKontaktowej>
+		<nrTelOsobyKontaktowej>987654321</nrTelOsobyKontaktowej>
+	</osobaKontaktowa>
+	<oswiadczenie>
+		<trescOswiadczenia>Oswiadczam, że wszystkie podane informacje są prawdziwe oraz że zapoznałem się i akceptuje regulamin zawodów. Dodatkowko oświadczam, że posiadam aktualne badania lekarskie dopuszczające do udziału w zawodach. Wyrażam zgodę na przetwarzanie danych osobowych na potrzeby organizacji zawodów.</trescOswiadczenia>
+	</oswiadczenie>
+</formularzZgloszeniowy>

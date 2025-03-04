@@ -1,0 +1,8 @@
+> Aplikacja dla zabytków:
+- Aplikacja ma poprawnie działać na urządzeniach mobilnych posiadających system operacyjny powstały po 2016 roku (Android 8.0, iOS 11)
+- Aplikacja powinna mieć dostęp do lokalizacji urządznenia oraz powinna używać systemu map, który pozwoli na zmianę lokalizacji wyszukiwania zabytków przez użytkownika, dodatkowo dając możliwość ustawienia promienia wyszukiwania zabytków na mapie w zakresie od 1 do 100 kilometrów
+- Przy mapie powinna zostać wyświetlona lista zabytków 
+
+> Aplikacja dla szklarni
+- Aplikacja będzie posiadała menu z opcją wyboru szklarni, którą chce monitorować w danym momencie
+- Każda ze szklarni będzie posiadała listę czujników zamontowanych w niej wraz z opisem słowny podsumowującym stan otoczenia w punkcie monitorowanym przez dany czujnik wraz z kółkiem przedstawiającym podany stan w sposób graficzny (zielony - wszystko w porządku, żółty - występuje nieprawidłowość stanu gleby lub temperatury powietrza, pomarańczowy - występuje duże odchylenie stanu gleby lub temperatury powietrza, czerwony - występują duże odchylenia stanu gleby i powietrza).
