@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1737027305 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\kolokwium ii 1\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<exception>
+

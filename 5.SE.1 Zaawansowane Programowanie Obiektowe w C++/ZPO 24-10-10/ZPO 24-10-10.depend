@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-10\main.cpp
+	<iostream>
+
+1728561291 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-10\src\person.cpp
+	"Person.h"
+	<iostream>
+
+1728561284 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-10\include\person.h
+	<iostream>
+
+1728562736 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-10\src\animal.cpp
+	"Animal.h"
+	<iostream>
+
+1729119882 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-10\include\animal.h
+	<iostream>
+
+1729160365 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-10\src\dog.cpp
+	"Dog.h"
+
+1729122903 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-10\include\dog.h
+	<Animal.h>
+	<iostream>
+
+1729160374 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-10\src\cat.cpp
+	"Cat.h"
+
+1729160365 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-10\include\cat.h
+	<Animal.h>
+
