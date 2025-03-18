@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1729764928 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab3_zad3\src\array.cpp
+	"Array.h"
+
+1729764928 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab3_zad3\include\array.h
+
+1730830420 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab3_zad3\main.cpp
+	<iostream>
+

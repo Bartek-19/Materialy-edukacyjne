@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1729594643 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad1\main.cpp
+	<iostream>
+	"Figure.h"
+	"Square.h"
+	"Circle.h"
+
+1729594643 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad1\src\figure.cpp
+	<iostream>
+	"Figure.h"
+
+1729594643 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad1\include\figure.h
+
+1729594824 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad1\src\square.cpp
+	<iostream>
+	"Square.h"
+	"Figure.h"
+
+1729594824 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad1\include\square.h
+	<Figure.h>
+
+1729594824 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad1\src\circle.cpp
+	<iostream>
+	"Figure.h"
+	"Circle.h"
+
+1729594824 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad1\include\circle.h
+	<Figure.h>
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1729697061 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad3\main.cpp
+	<iostream>
+	<ctime>
+	"Bufor.h"
+	"MeanBufor.h"
+	"MaxBufor.h"
+
+1729696593 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad3\src\bufor.cpp
+	"Bufor.h"
+	<iostream>
+
+1729690956 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad3\include\bufor.h
+
+1729694844 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad3\src\meanbufor.cpp
+	"MeanBufor.h"
+	"Bufor.h"
+
+1729681645 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad3\include\meanbufor.h
+	<Bufor.h>
+
+1729695937 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad3\include\maxbufor.h
+	<Bufor.h>
+
+1729697182 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab2_zad3\src\maxbufor.cpp
+	"MaxBufor.h"
+	<iostream>
+

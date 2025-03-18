@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1732182774 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab5_zad4\main.cpp
+	<iostream>
+	<utility>
+	"Dictionary.h"
+
+1732182676 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab5_zad4\src\dictionary.cpp
+	"Dictionary.h"
+	<map>
+	<algorithm>
+	<iostream>
+
+1732144244 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab5_zad4\include\dictionary.h
+	<map>
+	<utility>
+

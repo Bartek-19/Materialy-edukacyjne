@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1730982387 source:c:\users\barte\onedrive\pulpit\test\klimiuk_bartosz_5.6_lab4_zad2\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+
+1731493275 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bartosz_5.6_lab4_zad2\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+
