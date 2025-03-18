@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1732793201 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bratosz_5.6_lab6_zad2\src\contact.cpp
+	"Contact.h"
+	<iostream>
+
+1732793201 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bratosz_5.6_lab6_zad2\include\contact.h
+	<iostream>
+	<string>
+
+1732792911 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bratosz_5.6_lab6_zad2\main.cpp
+	<iostream>
+	"Contacts.h"
+
+1732793037 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bratosz_5.6_lab6_zad2\include\contacts.h
+	<boost/multi_index_container.hpp>
+	<boost/multi_index/hashed_index.hpp>
+	<boost/multi_index/member.hpp>
+	<boost/multi_index/ordered_index.hpp>
+	"Contact.h"
+	<iostream>
+	<set>
+
+1732793145 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\klimiuk_bratosz_5.6_lab6_zad2\src\contacts.cpp
+	"Contacts.h"
+

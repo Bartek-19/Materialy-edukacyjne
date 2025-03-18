@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1729677558 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-16\main.cpp
+	<iostream>
+	"Employee.h"
+	"Developer.h"
+	"TeamLeader.h"
+
+1729583433 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-16\src\employee.cpp
+	"Employee.h"
+	<iostream>
+
+1729589706 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-16\include\employee.h
+	<iostream>
+
+1729677450 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-16\src\developer.cpp
+	"Developer.h"
+	<iostream>
+
+1729582874 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-16\include\developer.h
+	<Employee.h>
+
+1729677450 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-16\src\teamleader.cpp
+	"TeamLeader.h"
+
+1729586263 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\zpo 24-10-16\include\teamleader.h
+	<Employee.h>
+

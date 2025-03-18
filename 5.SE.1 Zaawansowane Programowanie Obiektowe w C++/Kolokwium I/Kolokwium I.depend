@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1734002894 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\kolokwium i\main.cpp
+	<iostream>
+	"konto_zlotowkowe.h"
+	"konto_dolarowe.h"
+
+1734002699 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\kolokwium i\src\konto_dolarowe.cpp
+	"konto_dolarowe.h"
+	<iostream>
+
+1734002687 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\kolokwium i\include\konto_dolarowe.h
+	<konto_zlotowkowe.h>
+
+1734002414 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\kolokwium i\include\konto_zlotowkowe.h
+
+1734002058 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\kolokwium i\src\konto_zlotowkowe.cpp
+	"konto_zlotowkowe.h"
+	<iostream>
+

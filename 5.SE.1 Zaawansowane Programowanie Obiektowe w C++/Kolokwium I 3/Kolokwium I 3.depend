@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\kolokwium i 3\main.cpp
+	<iostream>
+
+1734005090 source:c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\kolokwium i 3\src\planeta.cpp
+	"Planeta.h"
+
+1734005112 c:\users\barte\onedrive\pulpit\v semestr\5.se.1 zaawansowane programowanie obiektowe (c++)\laboratorium\kolokwium i 3\include\planeta.h
+	<iostream>
+
