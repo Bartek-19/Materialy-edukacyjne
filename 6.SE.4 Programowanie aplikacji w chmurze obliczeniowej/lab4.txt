@@ -1,0 +1,15 @@
+docker pull redis
+docker history redis
+docker inspect redis
+docker build --help
+docker build -f (--file) .\Dockerfille_bb -t (--tag) myfirst . (trzeba być w lokalizacji pliku)
+docker images
+docker build -f .\Dockerfille_bb -t myfirst .
+docker history myfirst
+docker inspect myfirst
+docker build -f .\lab4_examples\L4\Dockerfile_ng -t local/myweb . (Występuje błąd)
+cd .\lab4_examples\L4\Simpleimage
+docker build -f Dockerfile1 -t local/web:v1 . 
+docker run --rm -it local/web:v1
+docker build --build-arg BASE_VERSION=3.17.7 -f Dockerfile2 -t local/web:v2 .
+docker build -f Dockerfile3 -t local/web:v3 .

@@ -1,0 +1,30 @@
+docker run -dt --rm --name do_inspekcji ubuntu
+docker ps --filter name=do_inspekcji
+docker attach do_inspekcji (uruchomienie terminala)
+docker run -d --rm --name improved ubuntu /bin/bash -c "top -b"
+docker attach improved
+Ctrl+P Ctrl+Q
+docker ps --filter name=improved (Kontener zniknął)
+docker run -dit --rm --name thebesciak ubuntu /bin/bash -c "top -b"
+Ctrl+P Ctrl+Q
+docker run -d --rm --name tester alpine sh -c "ping gogle.com"
+docker top tester
+docker exec tester top -b
+Ctrl+C
+docker exec -it tester sh
+ps
+Ctrl+P Ctrl+Q
+docker ps --filter name=tester
+docker run -d --rm --name web666 -c 20 -m 1GB nginx (20% mocy obliczeniowej, 1GB ramu)
+docker stats web666
+docker run -d --rm --name=wtest -p 8050:80 nginx (port zewnętrzny - komputera 8050, port kontenera wewnętrzny 80)
+docker ps --filter name=wtest
+curl http://localhost:8050
+docker login
+docker images
+docker tag alpine docker.io/bartek19/lab:18.00.25.03.11
+docker images
+docker push docker.io/bartek19/lab:18.00.25.03.11
+docker manifest --help
+docker manifest inspect alpine
+docker manifest inspect bartek19/lab:18.00.25.03.11

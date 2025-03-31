@@ -1,0 +1,17 @@
+cd Simpleweb
+docker build -f Dockerfile1 -t local/web:v1 . (npm not found)
+docker build -f Dockerfile2 -t local/web:v2 . (npm not found)
+docker build -f Dockerfile3 -t local/web:v3 . (npm not able to find a source)
+docker build -f Dockerfile4 -t local/web:v4 .
+(zmiany w index.js)
+docker build -f Dockerfile4 -t local/web:v4 .
+docker build -f Dockerfile5 -t local/web:v5 .
+docker build -f Dockerfile5 -t local/web:v5 .
+docker build -f Dockerfile6 -t local/web:v6 .
+docker run --rm -d --name=zdrowy local/web:v6
+docker ps
+cd ..
+docker build -f Dockerfile_scratch -t local/minimal:v1 .
+docker images
+ZADANIE DO ZROBIENIA
+

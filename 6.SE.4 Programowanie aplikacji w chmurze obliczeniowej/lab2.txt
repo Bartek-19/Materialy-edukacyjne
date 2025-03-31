@@ -1,0 +1,24 @@
+docker search ubuntu
+docker pull ubuntu (= docker pull docker.io/ubuntu/latest)
+docker image ls (= docker images)
+docker images --filter reference=ubuntu
+docker run --help
+docker run ubuntu (= docker container run ubuntu)
+docker run ubuntu /bin/hostname
+docker ps
+docker ps -a
+docker run -t --name=tesciak ubuntu /bin/bash (= docker run -t --name=tesciak ubuntu sh)
+docker ps -a
+docker rm -f tesciak (na drugiej konsoli przerywa kontener)
+docker run -it --name=tesciak ubuntu /bin/bash (do terminala dodaje klawiaturę)
+uname -a
+ls
+cat /etc/os-release
+Ctrl+P
+Ctrl+Q
+(wyjście bez zatrzymania)
+docker run -d -t ubuntu
+docker run -it --rm --name=tesciak1 ubuntu /bin/bash (po zatrzymaniu kontener zostaje usunięty)
+docker system prune --help
+docker run --rm --name=next ubuntu whoami
+docker run --rm -u nobody --name=next ubuntu whoami
