@@ -1,0 +1,259 @@
+[{
+  "_id": {
+    "$oid": "67f688858db34b67302cffca"
+  },
+  "exercise_name": "Back Squat",
+  "description": "Squat performed in a bilateral stance, with a barbell placed in a high-bar or a low-bar position, performed to a competition required depth",
+  "category": "Global",
+  "target_muscle_groups": [
+    "Upper back",
+    "Lower back",
+    "Glutes",
+    "Adductors",
+    "Abdominals",
+    "Hamstrings",
+    "Quadriceps",
+    "Calves"
+  ],
+  "movement_patterns": [
+    "Extension",
+    "Anti-Flexion",
+    "Anti-Extension",
+    "Squat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f688b38db34b67302cffcb"
+  },
+  "exercise_name": "Bench Press",
+  "description": "Pressing in the laying position on a flat bench, performed to a competition standards",
+  "category": "Global",
+  "target_muscle_groups": [
+    "Triceps",
+    "Shoulders",
+    "Pectorals",
+    "Forearms",
+    "Upper Back",
+    "Lats",
+    "Lower Back",
+    "Glutes"
+  ],
+  "movement_patterns": [
+    "Anti-Flexion",
+    "Extension",
+    "Horizontal Push"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f688b98db34b67302cffcc"
+  },
+  "exercise_name": "Deadlift",
+  "description": "Performed in a conventional or a sumo stance, every repetition must be initiated off the ground from a dead-stop",
+  "category": "Global",
+  "target_muscle_groups": [
+    "Forearms",
+    "Neck",
+    "Upper back",
+    "Lats",
+    "Lower back",
+    "Glutes",
+    "Adductors",
+    "Abdominals",
+    "Hamstrings",
+    "Quadriceps",
+    "Calves"
+  ],
+  "movement_patterns": [
+    "Extension",
+    "Anti-Flexion",
+    "Hip Hinge"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f688bf8db34b67302cffcd"
+  },
+  "exercise_name": "Front Squat",
+  "description": "Performed with a barbell placed on shoulders in front of the neck, in a front rack position, performed to a full depth",
+  "category": "Global",
+  "target_muscle_groups": [
+    "Shoulders",
+    "Forearms",
+    "Upper back",
+    "Lower back",
+    "Glutes",
+    "Adductors",
+    "Abdominals",
+    "Hamstrings",
+    "Quadriceps",
+    "Calves"
+  ],
+  "movement_patterns": [
+    "Extension",
+    "Anti-Flexion",
+    "Anti-Extension",
+    "Squat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f688c58db34b67302cffce"
+  },
+  "exercise_name": "Overhead Press",
+  "description": "Performed in a standing position strict overhead press",
+  "category": "Compound",
+  "target_muscle_groups": [
+    "Triceps",
+    "Shoulders",
+    "Neck",
+    "Forearms",
+    "Upper Back",
+    "Lower Back",
+    "Glutes",
+    "Abdominals"
+  ],
+  "movement_patterns": [
+    "Anti-Flexion",
+    "Anti-Extension",
+    "Extension",
+    "Vertical Push"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f688ca8db34b67302cffcf"
+  },
+  "exercise_name": "Pull-up",
+  "description": "Pull-up performed conventionally with a overhand grip, the bar must reach the neck and sternum area at the top of the repetition",
+  "category": "Compound",
+  "target_muscle_groups": [
+    "Biceps",
+    "Shoulders",
+    "Forearms",
+    "Upper back",
+    "Lats",
+    "Abdominals"
+  ],
+  "movement_patterns": [
+    "Flexion",
+    "Vertical Pull"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f68b32c8f8d4e553d4ef46"
+  },
+  "exercise_name": "Triceps Pushdown",
+  "description": "Performed with a cable machine, with the cable attached at the top, performed by pressing the attachment down, with elbows tucked to the side of the body",
+  "category": "Isolated",
+  "target_muscle_groups": [
+    "Triceps",
+    "Lats"
+  ],
+  "movement_patterns": [
+    "Extension",
+    "Decline push"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6817a88c73effe19e9e009cb"
+  },
+  "exercise_name": "Lunges",
+  "description": "Unilateral squat performed wth one leg in front of the body and the second leg behind the body placed on the ground, feet pointed forward",
+  "category": "Global",
+  "target_muscle_groups": [
+    "Upper back",
+    "Lower back",
+    "Glutes",
+    "Adductors",
+    "Abdominals",
+    "Hamstrings",
+    "Quadriceps",
+    "Calves"
+  ],
+  "movement_patterns": [
+    "Extension",
+    "Anti-Rotation",
+    "Hip Hinge",
+    "Squat",
+    "Lunge"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6817a9ad73effe19e9e009cc"
+  },
+  "exercise_name": "Back extensions",
+  "description": "Performed on a roman chair bench by bending and extending in the hips while avoiding movement in the lumbard spine and in the knees",
+  "category": "Isolated",
+  "target_muscle_groups": [
+    "Lower back",
+    "Glutes",
+    "Abdominals",
+    "Hamstrings"
+  ],
+  "movement_patterns": [
+    "Extension",
+    "Anti-Flexion",
+    "Anti-Extension",
+    "Hip Hinge"
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a299a5a79af1639273479"
+  },
+  "exercise_name": "Leg Press",
+  "description": "Performed on a leg press machine, feet placement should allow the maximal range of motion",
+  "category": "Compound",
+  "target_muscle_groups": [
+    "Glutes",
+    "Adductors",
+    "Hamstrings",
+    "Quadriceps",
+    "Calves"
+  ],
+  "movement_patterns": [
+    "Extension",
+    "Anti-Flexion",
+    "Hip hinge",
+    "Squat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a2b685a79af163927347a"
+  },
+  "exercise_name": "Cable horizontal fly",
+  "description": "Movement performed on a double-cable machine, performed by spreading arms and crosing them in front of the body while maintaining a fixed elbow flexion",
+  "category": "Isolated",
+  "target_muscle_groups": [
+    "Biceps",
+    "Shoulders",
+    "Pectorals"
+  ],
+  "movement_patterns": [
+    "Flexion",
+    "Horizontal fly"
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a2c955a79af163927347b"
+  },
+  "exercise_name": "Neutral Grip Machine Row",
+  "description": "Rowing motion performed on a seated row machine, performed with a low, neutral grip",
+  "category": "Compound",
+  "target_muscle_groups": [
+    "Biceps",
+    "Forearms",
+    "Lats"
+  ],
+  "movement_patterns": [
+    "Flexion",
+    "Horizontal Pull"
+  ]
+}]
