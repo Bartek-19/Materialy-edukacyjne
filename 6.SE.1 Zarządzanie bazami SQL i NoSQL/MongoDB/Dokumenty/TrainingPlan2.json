@@ -1,0 +1,135 @@
+ {
+    "user_id": "user1",
+    "training_method": "Texas Method",
+    "training_days": [
+        {
+            "day": "Monday",
+            "week_number": 1,
+            "exercises": [
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "week_number": 1,
+            "exercises": [
+                {
+                    "exercise_id": "Back Squat",
+                    "effort_type": "Max",
+                    "weight": 110.0,
+                    "sets": 3,
+                    "repetitions": 2,
+                    "executed_sets": [
+                    ]
+                },
+                {
+                    "exercise_id": "Bench Press",
+                    "effort_type": "Volume",
+                    "weight": 115.0,
+                    "sets": 3,
+                    "repetitions": 5,
+                    "executed_sets": [
+                    ]
+                },
+                {
+                    "exercise_id": "Deadlift",
+                    "effort_type": "Speed",
+                    "weight": 100.0,
+                    "sets": 3,
+                    "repetitions": 5,
+                    "executed_sets": [
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "week_number": 1,
+            "exercises": [
+            ]
+        },
+        {
+            "day": "Thursday",
+            "week_number": 1,
+            "exercises": [
+                {
+                    "exercise_id": "Bench Press",
+                    "effort_type": "Max",
+                    "weight": 125.0,
+                    "sets": 3,
+                    "repetitions": 2,
+                    "executed_sets": [
+                    ]
+                },
+                {
+                    "exercise_id": "Deadlift",
+                    "effort_type": "Volume",
+                    "weight": 115.0,
+                    "sets": 3,
+                    "repetitions": 5,
+                    "executed_sets": [
+                    ]
+                },
+                {
+                    "exercise_id": "Back Squat",
+                    "effort_type": "Speed",
+                    "weight": 82.5,
+                    "sets": 3,
+                    "repetitions": 5,
+                    "executed_sets": [
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "Friday",
+            "week_number": 1,
+            "exercises": [
+            ]
+        },
+        {
+            "day": "Saturday",
+            "week_number": 1,
+            "exercises": [
+                {
+                    "exercise_id": "Deadlift",
+                    "effort_type": "Max",
+                    "weight": 130.0,
+                    "sets": 3,
+                    "repetitions": 2,
+                    "executed_sets": [
+                    ]
+                },
+                {
+                    "exercise_id": "Back Squat",
+                    "effort_type": "Volume",
+                    "weight": 95.0,
+                    "sets": 3,
+                    "repetitions": 5,
+                    "executed_sets": [
+                    ]
+                },
+                {
+                    "exercise_id": "Bench Press",
+                    "effort_type": "Speed",
+                    "weight": 105.0,
+                    "sets": 3,
+                    "repetitions": 5,
+                    "executed_sets": [
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "Sunday",
+            "week_number": 1,
+            "exercises": [
+            ]
+        }
+    ],
+    "end_survey": {
+        "was_tracking_sleep": false,
+        "amount_of_sleep": null,
+        "was_tracking_nutrition": false,
+        "personal_evaluation": null
+    }
+ }

@@ -1,0 +1,23 @@
+{
+    "exercise_name": "Deadlift",
+    "description": "Performed in a conventional or a sumo stance, every repetition must be initiated off the ground from a dead-stop",
+    "category": "Global",
+    "target_muscle_groups": [
+        "Forearms", 
+        "Neck", 
+        "Upper back", 
+        "Lats", 
+        "Lower back", 
+        "Glutes", 
+        "Adductors", 
+        "Abdominals", 
+        "Hamstrings", 
+        "Quadriceps", 
+        "Calves"
+    ],
+    "movement_patterns": [
+        "Extension",
+        "Anti-Flexion",
+        "Hip Hinge"
+    ]
+ }

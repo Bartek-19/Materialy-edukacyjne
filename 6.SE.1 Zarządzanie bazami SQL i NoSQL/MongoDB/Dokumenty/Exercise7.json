@@ -1,0 +1,13 @@
+{
+    "exercise_name": "Triceps Pushdown",
+    "description": "Performed with a cable machine, with the cable attached at the top, performed by pressing the attachment down, with elbows tucked to the side of the body",
+    "category": "Isolated",
+    "target_muscle_groups": [
+        "Triceps",
+        "Lats"
+    ],
+    "movement_patterns": [
+        "Extension",
+        "Decline push"
+    ]
+ }

@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "67f688038db34b67302cffbe"
+  },
+  "username": "user1",
+  "password": "pass1",
+  "email": "user1@email.com",
+  "status": 1,
+  "create_date": "2025-03-01 16:50:01",
+  "stats": {
+    "plans_completed": 2,
+    "trainings_completed": 15,
+    "sets_completed": 30,
+    "total_tonnage": 10
+  },
+  "records": {
+    "max_squat": 120,
+    "max_bench": 135,
+    "max_deadlift": 140
+  }
+},
+{
+  "_id": {
+    "$oid": "67f6884e8db34b67302cffc5"
+  },
+  "username": "user2",
+  "password": "pass2",
+  "email": "user2@email.com",
+  "status": 1,
+  "create_date": "2025-03-24 16:50:02",
+  "stats": {
+    "plans_completed": 1,
+    "trainings_completed": 5,
+    "sets_completed": 30,
+    "total_tonnage": 0.5
+  },
+  "records": {
+    "max_squat": 100,
+    "max_bench": 150,
+    "max_deadlift": 85
+  }
+},
+{
+  "_id": {
+    "$oid": "67f688578db34b67302cffc6"
+  },
+  "username": "user3",
+  "password": "pass3",
+  "email": "user3@email.com",
+  "status": 1,
+  "create_date": "2025-03-26 10:44:51",
+  "stats": {
+    "plans_completed": 0,
+    "trainings_completed": 1,
+    "sets_completed": 5,
+    "total_tonnage": 0.1
+  },
+  "records": {
+    "max_squat": 50,
+    "max_bench": 50,
+    "max_deadlift": 50
+  }
+},
+{
+  "_id": {
+    "$oid": "68176dc573effe19e9e009c1"
+  },
+  "username": "user4",
+  "password": "pass4",
+  "email": "user4@email.com",
+  "status": 0,
+  "create_date": "2025-04-26 11:50:51",
+  "stats": {
+    "plans_completed": 0,
+    "trainings_completed": 0,
+    "sets_completed": 0,
+    "total_tonnage": 0
+  },
+  "records": {
+    "max_squat": 120,
+    "max_bench": 90,
+    "max_deadlift": 150
+  }
+},
+{
+  "_id": {
+    "$oid": "68176f1073effe19e9e009c2"
+  },
+  "username": "user5",
+  "password": "pass5",
+  "email": "user5@email.com",
+  "status": 1,
+  "create_date": "2025-04-13 01:59:07",
+  "stats": {
+    "plans_completed": 1,
+    "trainings_completed": 9,
+    "sets_completed": 50,
+    "total_tonnage": 13000
+  },
+  "records": {
+    "max_squat": 200,
+    "max_bench": 140,
+    "max_deadlift": 220
+  }
+},
+{
+  "_id": {
+    "$oid": "6817712373effe19e9e009c3"
+  },
+  "username": "user6",
+  "password": "pass6",
+  "email": "user6@email.com",
+  "status": 0,
+  "create_date": "2025-05-03 12:06:09",
+  "stats": {
+    "plans_completed": 0,
+    "trainings_completed": 0,
+    "sets_completed": 0,
+    "total_tonnage": 0
+  },
+  "records": {
+    "max_squat": 300,
+    "max_bench": 205,
+    "max_deadlift": 410
+  }
+},
+{
+  "_id": {
+    "$oid": "6817716273effe19e9e009c4"
+  },
+  "username": "user7",
+  "password": "pass7",
+  "email": "user7@email.com",
+  "status": 0,
+  "create_date": "2025-05-03 12:06:10",
+  "stats": {
+    "plans_completed": 0,
+    "trainings_completed": 0,
+    "sets_completed": 0,
+    "total_tonnage": 0
+  },
+  "records": {
+    "max_squat": 100,
+    "max_bench": 80,
+    "max_deadlift": 135
+  }
+},
+{
+  "_id": {
+    "$oid": "6817718f73effe19e9e009c5"
+  },
+  "username": "user8",
+  "password": "pass8",
+  "email": "user8@email.com",
+  "status": 0,
+  "create_date": "2025-05-03 12:06:10",
+  "stats": {
+    "plans_completed": 0,
+    "trainings_completed": 0,
+    "sets_completed": 0,
+    "total_tonnage": 0
+  },
+  "records": {
+    "max_squat": 110,
+    "max_bench": 75,
+    "max_deadlift": 140
+  }
+},
+{
+  "_id": {
+    "$oid": "6817813173effe19e9e009c6"
+  },
+  "username": "user9",
+  "password": "pass9",
+  "email": "user9@email.com",
+  "status": 0,
+  "create_date": "2025-05-02 12:06:10",
+  "stats": {
+    "plans_completed": 0,
+    "trainings_completed": 1,
+    "sets_completed": 10,
+    "total_tonnage": 2500
+  },
+  "records": {
+    "max_squat": 140,
+    "max_bench": 100,
+    "max_deadlift": 130
+  }
+},
+{
+  "_id": {
+    "$oid": "6817886073effe19e9e009c7"
+  },
+  "username": "user10",
+  "password": "pass10",
+  "email": "user10@email.com",
+  "status": 1,
+  "create_date": "2025-04-11 10:09:30",
+  "stats": {
+    "plans_completed": 1,
+    "trainings_completed": 6,
+    "sets_completed": 45,
+    "total_tonnage": 15000
+  },
+  "records": {
+    "max_squat": 100,
+    "max_bench": 60,
+    "max_deadlift": 110
+  }
+},
+{
+  "_id": {
+    "$oid": "68178a5b73effe19e9e009c8"
+  },
+  "username": "user11",
+  "password": "pass11",
+  "email": "user11@email.com",
+  "status": 0,
+  "create_date": "2025-05-04 10:10:10",
+  "stats": {
+    "plans_completed": 0,
+    "trainings_completed": 0,
+    "sets_completed": 0,
+    "total_tonnage": 0
+  },
+  "records": {
+    "max_squat": 250,
+    "max_bench": 140,
+    "max_deadlift": 300
+  }
+},
+{
+  "_id": {
+    "$oid": "68178a9873effe19e9e009c9"
+  },
+  "username": "user12",
+  "password": "pass12",
+  "email": "user12@email.com",
+  "status": 0,
+  "create_date": "2025-01-04 00:00:01",
+  "stats": {
+    "plans_completed": 0,
+    "trainings_completed": 0,
+    "sets_completed": 0,
+    "total_tonnage": 0
+  },
+  "records": {
+    "max_squat": 50,
+    "max_bench": 40,
+    "max_deadlift": 60
+  }
+}]

@@ -1,0 +1,21 @@
+{
+    "exercise_name": "Squat",
+    "description": "Squat performed in a bilateral stance, with a barbell placed in a high-bar or a low-bar position, performed to a competition required depth",
+    "category": "Global",
+    "target_muscle_groups": [
+        "Upper back",
+        "Lower back",
+        "Glutes",
+        "Adductors",
+        "Abdominals",
+        "Hamstrings",
+        "Quadriceps",
+        "Calves"
+    ],
+    "movement_patterns": [
+        "Extension",
+        "Anti-Flexion",
+        "Anti-Extension",
+        "Squat"
+    ]
+ }

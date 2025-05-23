@@ -1,0 +1,23 @@
+{
+    "exercise_name": "Front Squat",
+    "description": "Performed with a barbell placed on shoulders in front of the neck, in a front rack position, performed to a full depth",
+    "category": "Global",
+    "target_muscle_groups": [
+        "Shoulders",
+        "Forearms",
+        "Upper back",
+        "Lower back",
+        "Glutes",
+        "Adductors",
+        "Abdominals",
+        "Hamstrings",
+        "Quadriceps",
+        "Calves"
+    ],
+    "movement_patterns": [
+        "Extension",
+        "Anti-Flexion",
+        "Anti-Extension",
+        "Squat"
+    ]
+ }

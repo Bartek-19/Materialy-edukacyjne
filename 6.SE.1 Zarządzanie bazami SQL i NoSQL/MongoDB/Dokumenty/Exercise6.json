@@ -1,0 +1,17 @@
+{
+    "exercise_name": "Pull-up",
+    "description": "Pull-up performed conventionally with a overhand grip, the bar must reach the neck and sternum area at the top of the repetition",
+    "category": "Compound",
+    "target_muscle_groups": [
+        "Biceps", 
+        "Shoulders", 
+        "Forearms", 
+        "Upper back", 
+        "Lats", 
+        "Abdominals"
+    ],
+    "movement_patterns": [
+        "Flexion",
+        "Vertical Pull"
+    ]
+ }

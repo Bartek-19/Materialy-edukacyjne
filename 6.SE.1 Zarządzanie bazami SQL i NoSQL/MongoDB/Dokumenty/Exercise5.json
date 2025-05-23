@@ -1,0 +1,21 @@
+{
+    "exercise_name": "Overhead Press",
+    "description": "Performed in a standing position strict overhead press",
+    "category": "Compound",
+    "target_muscle_groups": [
+        "Triceps",
+        "Shoulders",
+        "Neck",
+        "Forearms",
+        "Upper Back",
+        "Lower Back",
+        "Glutes",
+        "Abdominals"
+    ],
+    "movement_patterns": [
+        "Anti-Flexion",
+        "Anti-Extension",
+        "Extension",
+        "Vertical Push"
+    ]
+ }

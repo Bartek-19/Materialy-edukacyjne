@@ -1,0 +1,228 @@
+ {
+    "user_id": "user1",
+    "training_method": "5x5",
+    "training_days": [
+        {
+            "day": "Monday",
+            "week_number": 1,
+            "exercises": [
+                {
+                    "exercise_id": "Back Squat",
+                    "effort_type": "Max",
+                    "weight": 90.0,
+                    "sets": 5,
+                    "repetitions": 5,
+                    "executed_sets": [
+                        {
+                            "set_number": 1,
+                            "executed_repetitions": 5,
+                            "weight_used": 90.0
+                        },
+                        {
+                            "set_number": 2,
+                            "executed_repetitions": 5,
+                            "weight_used": 90.0
+                        },
+                        {
+                            "set_number": 3,
+                            "executed_repetitions": 4,
+                            "weight_used": 90.0
+                        },
+                        {
+                            "set_number": 4,
+                            "executed_repetitions": 5,
+                            "weight_used": 90.0
+                        },
+                        {
+                            "set_number": 5,
+                            "executed_repetitions": 4,
+                            "weight_used": 90.0
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "Front Squat",
+                    "effort_type": "Volume",
+                    "weight": 70.0,
+                    "sets": 3,
+                    "repetitions": 10,
+                    "executed_sets": [
+                        {
+                            "set_number": 1,
+                            "executed_repetitions": 10,
+                            "weight_used": 70.0
+                        },
+                        {
+                            "set_number": 2,
+                            "executed_repetitions": 9,
+                            "weight_used": 70.0
+                        },
+                        {
+                            "set_number": 3,
+                            "executed_repetitions": 8,
+                            "weight_used": 70.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "week_number": 1,
+            "exercises": [
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "week_number": 1,
+            "exercises": [
+            {
+                    "exercise_id": "Bench Press",
+                    "effort_type": "Max",
+                    "weight": 70.0,
+                    "sets": 3,
+                    "repetitions": 12,
+                    "executed_sets": [
+                        {
+                            "set_number": 1,
+                            "executed_repetitions": 12,
+                            "weight_used": 70.0
+                        },
+                        {
+                            "set_number": 2,
+                            "executed_repetitions": 11,
+                            "weight_used": 70.0
+                        },
+                        {
+                            "set_number": 3,
+                            "executed_repetitions": 11,
+                            "weight_used": 70.0
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "Triceps Pushdown",
+                    "effort_type": "Volume",
+                    "weight": 105.0,
+                    "sets": 5,
+                    "repetitions": 5,
+                    "executed_sets": [
+                        {
+                            "set_number": 1,
+                            "executed_repetitions": 5,
+                            "weight_used": 102.5
+                        },
+                        {
+                            "set_number": 2,
+                            "executed_repetitions": 5,
+                            "weight_used": 102.5
+                        },
+                        {
+                            "set_number": 3,
+                            "executed_repetitions": 5,
+                            "weight_used": 102.5
+                        },
+                        {
+                            "set_number": 4,
+                            "executed_repetitions": 5,
+                            "weight_used": 102.5
+                        },
+                        {
+                            "set_number": 5,
+                            "executed_repetitions": 5,
+                            "weight_used": 102.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "Thursday",
+            "week_number": 1,
+            "exercises": [
+            ]
+        },
+        {
+            "day": "Friday",
+            "week_number": 1,
+            "exercises": [
+                {
+                    "exercise_id": "Deadlift",
+                    "effort_type": "Max",
+                    "weight": 110.0,
+                    "sets": 5,
+                    "repetitions": 5,
+                    "executed_sets": [
+                        {
+                            "set_number": 1,
+                            "executed_repetitions": 5,
+                            "weight_used": 110.0
+                        },
+                        {
+                            "set_number": 2,
+                            "executed_repetitions": 5,
+                            "weight_used": 110.0
+                        },
+                        {
+                            "set_number": 3,
+                            "executed_repetitions": 5,
+                            "weight_used": 110.0
+                        },
+                        {
+                            "set_number": 4,
+                            "executed_repetitions": 5,
+                            "weight_used": 110.0
+                        },
+                        {
+                            "set_number": 5,
+                            "executed_repetitions": 4,
+                            "weight_used": 112.5
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "Pull-up",
+                    "effort_type": "Volume",
+                    "weight": 0.0,
+                    "sets": 3,
+                    "repetitions": 8,
+                    "executed_sets": [
+                        {
+                            "set_number": 1,
+                            "executed_repetitions": 8,
+                            "weight_used": 0.0
+                        },
+                        {
+                            "set_number": 2,
+                            "executed_repetitions": 8,
+                            "weight_used": 0.0
+                        },
+                        {
+                            "set_number": 3,
+                            "executed_repetitions": 7,
+                            "weight_used": 0.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "Saturday",
+            "week_number": 1,
+            "exercises": [
+            ]
+        },
+        {
+            "day": "Sunday",
+            "week_number": 1,
+            "exercises": [
+            ]
+        }
+    ],
+    "end_survey": {
+        "was_tracking_sleep": true,
+        "amount_of_sleep": 8,
+        "was_tracking_nutrition": false,
+        "personal_evaluation": 9
+    }
+ }

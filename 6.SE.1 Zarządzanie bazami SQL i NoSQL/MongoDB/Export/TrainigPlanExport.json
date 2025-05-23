@@ -1,0 +1,1405 @@
+[{
+  "_id": {
+    "$oid": "67f6892b8db34b67302cffd1"
+  },
+  "user_id": "67f688038db34b67302cffbe",
+  "training_method": "5x5",
+  "training_days": [
+    {
+      "day": "Monday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 90,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": [
+            {
+              "set_number": 1,
+              "executed_repetitions": 5,
+              "weight_used": 90
+            },
+            {
+              "set_number": 2,
+              "executed_repetitions": 5,
+              "weight_used": 90
+            },
+            {
+              "set_number": 3,
+              "executed_repetitions": 4,
+              "weight_used": 90
+            },
+            {
+              "set_number": 4,
+              "executed_repetitions": 5,
+              "weight_used": 90
+            },
+            {
+              "set_number": 5,
+              "executed_repetitions": 4,
+              "weight_used": 90
+            }
+          ]
+        },
+        {
+          "exercise_id": "67f688bf8db34b67302cffcd",
+          "effort_type": "Volume effort",
+          "weight": 70,
+          "sets": 3,
+          "repetitions": 10,
+          "executed_sets": [
+            {
+              "set_number": 1,
+              "executed_repetitions": 10,
+              "weight_used": 70
+            },
+            {
+              "set_number": 2,
+              "executed_repetitions": 9,
+              "weight_used": 70
+            },
+            {
+              "set_number": 3,
+              "executed_repetitions": 8,
+              "weight_used": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Wednesday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688b38db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 70,
+          "sets": 3,
+          "repetitions": 12,
+          "executed_sets": [
+            {
+              "set_number": 1,
+              "executed_repetitions": 12,
+              "weight_used": 70
+            },
+            {
+              "set_number": 2,
+              "executed_repetitions": 11,
+              "weight_used": 70
+            },
+            {
+              "set_number": 3,
+              "executed_repetitions": 11,
+              "weight_used": 70
+            }
+          ]
+        },
+        {
+          "exercise_id": "67f68b32c8f8d4e553d4ef46",
+          "effort_type": "Volume effort",
+          "weight": 105,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": [
+            {
+              "set_number": 1,
+              "executed_repetitions": 5,
+              "weight_used": 102.5
+            },
+            {
+              "set_number": 2,
+              "executed_repetitions": 5,
+              "weight_used": 102.5
+            },
+            {
+              "set_number": 3,
+              "executed_repetitions": 5,
+              "weight_used": 102.5
+            },
+            {
+              "set_number": 4,
+              "executed_repetitions": 5,
+              "weight_used": 102.5
+            },
+            {
+              "set_number": 5,
+              "executed_repetitions": 5,
+              "weight_used": 102.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Friday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688b98db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 110,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": [
+            {
+              "set_number": 1,
+              "executed_repetitions": 5,
+              "weight_used": 110
+            },
+            {
+              "set_number": 2,
+              "executed_repetitions": 5,
+              "weight_used": 110
+            },
+            {
+              "set_number": 3,
+              "executed_repetitions": 5,
+              "weight_used": 110
+            },
+            {
+              "set_number": 4,
+              "executed_repetitions": 5,
+              "weight_used": 110
+            },
+            {
+              "set_number": 5,
+              "executed_repetitions": 4,
+              "weight_used": 112.5
+            }
+          ]
+        },
+        {
+          "exercise_id": "67f688ca8db34b67302cffcf",
+          "effort_type": "Volume effort",
+          "weight": 0,
+          "sets": 3,
+          "repetitions": 8,
+          "executed_sets": [
+            {
+              "set_number": 1,
+              "executed_repetitions": 8,
+              "weight_used": 0
+            },
+            {
+              "set_number": 2,
+              "executed_repetitions": 8,
+              "weight_used": 0
+            },
+            {
+              "set_number": 3,
+              "executed_repetitions": 7,
+              "weight_used": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Sunday",
+      "week_number": 1,
+      "exercises": []
+    }
+  ],
+  "end_survey": {
+    "was_tracking_sleep": true,
+    "amount_of_sleep": 8,
+    "was_tracking_nutrition": false,
+    "personal_evaluation": 9
+  }
+},
+{
+  "_id": {
+    "$oid": "67f689338db34b67302cffd2"
+  },
+  "user_id": "67f688038db34b67302cffbe",
+  "training_method": "Texas Method",
+  "training_days": [
+    {
+      "day": "Monday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Tuesday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 110,
+          "sets": 3,
+          "repetitions": 2,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688b38db34b67302cffcb",
+          "effort_type": "Volume effort",
+          "weight": 115,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688b98db34b67302cffcc",
+          "effort_type": "Speed effort",
+          "weight": 100,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Thursday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688b38db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 125,
+          "sets": 3,
+          "repetitions": 2,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688b98db34b67302cffcc",
+          "effort_type": "Volume effort",
+          "weight": 115,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Speed effort",
+          "weight": 82.5,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Saturday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688b98db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 130,
+          "sets": 3,
+          "repetitions": 2,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Volume effort",
+          "weight": 95,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688b38db34b67302cffcb",
+          "effort_type": "Speed effort",
+          "weight": 105,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "week_number": 1,
+      "exercises": []
+    }
+  ],
+  "end_survey": {
+    "was_tracking_sleep": false,
+    "amount_of_sleep": null,
+    "was_tracking_nutrition": false,
+    "personal_evaluation": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67f689408db34b67302cffd3"
+  },
+  "user_id": "67f688578db34b67302cffc5",
+  "training_method": "5x5",
+  "training_days": [
+    {
+      "day": "Monday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 85,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Wednesday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688b38db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 120,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Friday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688b98db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 65,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Sunday",
+      "week_number": 1,
+      "exercises": []
+    }
+  ],
+  "end_survey": {
+    "was_tracking_sleep": false,
+    "amount_of_sleep": 0,
+    "was_tracking_nutrition": false,
+    "personal_evaluation": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "681a27b15a79af1639273478"
+  },
+  "user_id": "67f688578db34b67302cffc6",
+  "training_method": "5x5",
+  "training_days": [
+    {
+      "day": "Monday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 40,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Wednesday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688b38db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 40,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Friday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688b98db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 40,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Sunday",
+      "week_number": 1,
+      "exercises": []
+    }
+  ],
+  "end_survey": {
+    "was_tracking_sleep": false,
+    "amount_of_sleep": 0,
+    "was_tracking_nutrition": false,
+    "personal_evaluation": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "681f837ca68f8a5d2d776a5a"
+  },
+  "user_id": "68176dc573effe19e9e009c1",
+  "training_method": "5x5",
+  "training_days": [
+    {
+      "day": "Monday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 95,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688b38db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 70,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Wednesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Thursday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688b38db34b67302cffcc",
+          "effort_type": "Max effort",
+          "executed_sets": [],
+          "repetitions": 5,
+          "sets": 5,
+          "weight": 110
+        },
+        {
+          "effort_type": "Max effort",
+          "executed_sets": [],
+          "exercise_id": "67f688b38db34b67302cffcb",
+          "repetitions": 5,
+          "sets": 5,
+          "weight": 70
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Saturday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Sunday",
+      "week_number": 1,
+      "exercises": []
+    }
+  ],
+  "end_survey": {
+    "was_tracking_sleep": false,
+    "amount_of_sleep": 0,
+    "was_tracking_nutrition": false,
+    "personal_evaluation": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "681f8382a68f8a5d2d776a5b"
+  },
+  "user_id": "68176f1073effe19e9e009c2",
+  "training_method": "PPL",
+  "training_days": [
+    {
+      "day": "Monday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Tuesday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 180,
+          "sets": 3,
+          "repetitions": 3,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Thursday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688b38db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 120,
+          "sets": 3,
+          "repetitions": 3,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Saturday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688b98db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 165,
+          "sets": 3,
+          "repetitions": 3,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "week_number": 1,
+      "exercises": []
+    }
+  ],
+  "end_survey": {
+    "was_tracking_sleep": false,
+    "amount_of_sleep": 0,
+    "was_tracking_nutrition": false,
+    "personal_evaluation": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6820a130adb7128f328b1686"
+  },
+  "user_id": "6817716273effe19e9e009c4",
+  "training_method": "PPL",
+  "training_days": [
+    {
+      "day": "Monday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Tuesday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 120,
+          "sets": 3,
+          "repetitions": 3,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688ca8db34b67302cffcf",
+          "effort_type": "Volume effort",
+          "weight": 0,
+          "sets": 3,
+          "repetitions": 10,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "6817a9ad73effe19e9e009cc",
+          "effort_type": "Volume effort",
+          "weight": 10,
+          "sets": 3,
+          "repetitions": 18,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "681a2c955a79af163927347b",
+          "effort_type": "Volume effort",
+          "weight": 50,
+          "sets": 3,
+          "repetitions": 12,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Thursday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 67.5,
+          "sets": 3,
+          "repetitions": 3,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688c58db34b67302cffce",
+          "effort_type": "Volume effort",
+          "weight": 45,
+          "sets": 3,
+          "repetitions": 8,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f68b32c8f8d4e553d4ef46",
+          "effort_type": "Volume effort",
+          "weight": 40,
+          "sets": 3,
+          "repetitions": 12,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "681a2b685a79af163927347a",
+          "effort_type": "Volume effort",
+          "weight": 40,
+          "sets": 3,
+          "repetitions": 15,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Saturday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 90,
+          "sets": 3,
+          "repetitions": 3,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688bf8db34b67302cffcd",
+          "effort_type": "Volume effort",
+          "weight": 70,
+          "sets": 3,
+          "repetitions": 10,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "6817a88c73effe19e9e009cb",
+          "effort_type": "Volume effort",
+          "weight": 60,
+          "sets": 3,
+          "repetitions": 10,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "681a299a5a79af1639273479",
+          "effort_type": "Volume effort",
+          "weight": 120,
+          "sets": 3,
+          "repetitions": 16,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "week_number": 1,
+      "exercises": []
+    }
+  ],
+  "end_survey": {
+    "was_tracking_sleep": false,
+    "amount_of_sleep": 0,
+    "was_tracking_nutrition": false,
+    "personal_evaluation": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6820a49dadb7128f328b1688"
+  },
+  "user_id": "6817718f73effe19e9e009c5",
+  "training_method": "FBW",
+  "training_days": [
+    {
+      "day": "Monday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Volume effort",
+          "weight": 105,
+          "sets": 3,
+          "repetitions": 8,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Volume effort",
+          "weight": 55,
+          "sets": 3,
+          "repetitions": 8,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688bf8db34b67302cffcd",
+          "effort_type": "Volume effort",
+          "weight": 75,
+          "sets": 3,
+          "repetitions": 12,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Wednesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Thursday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Volume effort",
+          "weight": 80,
+          "sets": 3,
+          "repetitions": 8,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688ca8db34b67302cffcf",
+          "effort_type": "Volume effort",
+          "weight": 0,
+          "sets": 3,
+          "repetitions": 9,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688bf8db34b67302cffcd",
+          "effort_type": "Volume effort",
+          "weight": 40,
+          "sets": 3,
+          "repetitions": 10,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Saturday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Sunday",
+      "week_number": 1,
+      "exercises": []
+    }
+  ],
+  "end_survey": {
+    "was_tracking_sleep": false,
+    "amount_of_sleep": 0,
+    "was_tracking_nutrition": false,
+    "personal_evaluation": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6820a8b2adb7128f328b168a"
+  },
+  "user_id": "6817813173effe19e9e009c6",
+  "training_method": "PPL",
+  "training_days": [
+    {
+      "day": "Monday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 130,
+          "sets": 3,
+          "repetitions": 1,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Volume effort",
+          "weight": 110,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Speed effort",
+          "weight": 90,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Wednesday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 95,
+          "sets": 3,
+          "repetitions": 1,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Volume effort",
+          "weight": 85,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Speed effort",
+          "weight": 70,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Friday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 120,
+          "sets": 3,
+          "repetitions": 1,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Volume effort",
+          "weight": 100,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Speed effort",
+          "weight": 85,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Sunday",
+      "week_number": 1,
+      "exercises": []
+    }
+  ],
+  "end_survey": {
+    "was_tracking_sleep": false,
+    "amount_of_sleep": 0,
+    "was_tracking_nutrition": false,
+    "personal_evaluation": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6820aeefadb7128f328b168c"
+  },
+  "user_id": "6817886073effe19e9e009c7",
+  "training_method": "PPL",
+  "training_days": [
+    {
+      "day": "Monday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 80,
+          "sets": 1,
+          "repetitions": 5,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 90,
+          "sets": 1,
+          "repetitions": 3,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 100,
+          "sets": 1,
+          "repetitions": 1,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Wednesday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 40,
+          "sets": 1,
+          "repetitions": 5,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 50,
+          "sets": 1,
+          "repetitions": 3,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 60,
+          "sets": 1,
+          "repetitions": 1,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Friday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 85,
+          "sets": 1,
+          "repetitions": 5,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 97.5,
+          "sets": 1,
+          "repetitions": 3,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 110,
+          "sets": 1,
+          "repetitions": 1,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Sunday",
+      "week_number": 1,
+      "exercises": []
+    }
+  ],
+  "end_survey": {
+    "was_tracking_sleep": false,
+    "amount_of_sleep": 0,
+    "was_tracking_nutrition": false,
+    "personal_evaluation": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6820b350adb7128f328b168e"
+  },
+  "user_id": "68178a5b73effe19e9e009c8",
+  "training_method": "Custom Texas Method",
+  "training_days": [
+    {
+      "day": "Monday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 230,
+          "sets": 3,
+          "repetitions": 3,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 125,
+          "sets": 3,
+          "repetitions": 3,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Speed effort",
+          "weight": 175,
+          "sets": 3,
+          "repetitions": 6,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Speed effort",
+          "weight": 95,
+          "sets": 3,
+          "repetitions": 6,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 265,
+          "sets": 3,
+          "repetitions": 3,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Volume effort",
+          "weight": 115,
+          "sets": 3,
+          "repetitions": 5,
+          "executed_sets": []
+        },
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Speed effort",
+          "weight": 215,
+          "sets": 3,
+          "repetitions": 6,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "week_number": 1,
+      "exercises": []
+    },
+    {
+      "day": "Thursday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 255,
+          "sets": 1,
+          "repetitions": 1,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 145,
+          "sets": 1,
+          "repetitions": 1,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 305,
+          "sets": 1,
+          "repetitions": 1,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "week_number": 1,
+      "exercises": []
+    }
+  ],
+  "end_survey": {
+    "was_tracking_sleep": false,
+    "amount_of_sleep": 0,
+    "was_tracking_nutrition": false,
+    "personal_evaluation": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6820b46fadb7128f328b1690"
+  },
+  "user_id": "68178a9873effe19e9e009c9",
+  "training_method": "5x5",
+  "training_days": [
+    {
+      "day": "Monday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 40,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 30,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 45,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffca",
+          "effort_type": "Max effort",
+          "weight": 42.5,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcb",
+          "effort_type": "Max effort",
+          "weight": 32.5,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "week_number": 1,
+      "exercises": [
+        {
+          "exercise_id": "67f688858db34b67302cffcc",
+          "effort_type": "Max effort",
+          "weight": 47.5,
+          "sets": 5,
+          "repetitions": 5,
+          "executed_sets": []
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "week_number": 1,
+      "exercises": []
+    }
+  ],
+  "end_survey": {
+    "was_tracking_sleep": false,
+    "amount_of_sleep": 0,
+    "was_tracking_nutrition": false,
+    "personal_evaluation": 0
+  }
+}]

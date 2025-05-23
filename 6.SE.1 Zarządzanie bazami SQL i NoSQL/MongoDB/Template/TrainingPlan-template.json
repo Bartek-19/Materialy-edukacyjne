@@ -1,0 +1,95 @@
+ {
+    "user_id": "User3",
+    "training_method": "5x5",
+    "training_days": [
+        {
+            "day": "Monday",
+            "week_number": 1,
+            "exercises": [
+                {
+                    "exercise_id": "Backsquat", 
+                    "effort_type": "Max effort",
+                    "weight": 85.0,
+                    "sets": 5,
+                    "repetitions": 5,
+                    "executed_sets": [
+                        {
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "week_number": 1,
+            "exercises": [
+                {
+                }
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "week_number": 1,
+            "exercises": [
+                {
+                    "exercise_id": "Benchpress",
+                    "effort_type": "Max effort",
+                    "weight": 120.0,
+                    "sets": 5,
+                    "repetitions": 5,
+                    "executed_sets": [
+                        {
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "Thursday",
+            "week_number": 1,
+            "exercises": [
+                {
+                }
+            ]
+        },
+        {
+            "day": "Friday",
+            "week_number": 1,
+            "exercises": [
+                {
+                    "exercise_id": "Deadlift",
+                    "effort_type": "Max effort",
+                    "weight": 65.0,
+                    "sets": 5,
+                    "repetitions": 5,
+                    "executed_sets": [
+                        {
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "Saturday",
+            "week_number": 1,
+            "exercises": [
+                {
+                }
+            ]
+        },
+        {
+            "day": "Sunday",
+            "week_number": 1,
+            "exercises": [
+                {
+                }
+            ]
+        }
+    ],
+    "end_survey": {
+        "was_tracking_sleep": false,
+        "amount_of_sleep": 0,
+        "was_tracking_nutrition": false,
+        "personal_evaluation": 0
+    }
+ }

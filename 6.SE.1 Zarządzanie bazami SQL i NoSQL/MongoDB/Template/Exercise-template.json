@@ -1,0 +1,13 @@
+ {
+    "exercise_name": "Squat",
+    "description": "u squat, u get gainz",
+    "category": "global",
+    "target_muscle_groups": [
+        "biceps",
+        "triceps"
+    ],
+    "movement_patterns": [
+        "up",
+        "down"
+    ]
+ }

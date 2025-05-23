@@ -1,0 +1,18 @@
+ {
+    "username": "user3",
+    "password": "pass3",
+    "email": "user3@email.com",
+    "status": 1,
+    "create_date": "2025-03-26 10:44:51",
+    "stats": {
+        "plans_completed": 0,
+        "trainings_completed": 1,
+        "sets_completed": 5,
+        "total_tonnage": 0.1
+    },
+    "records": {
+        "max_squat": 50.0,
+        "max_bench": 50.0,
+        "max_deadlift": 50.0
+    }
+ }

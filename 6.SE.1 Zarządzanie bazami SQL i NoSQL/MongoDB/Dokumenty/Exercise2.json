@@ -1,0 +1,20 @@
+{
+    "exercise_name": "Bench Press",
+    "description": "Pressing in the laying position on a flat bench, performed to a competition standards",
+    "category": "Global",
+    "target_muscle_groups": [
+        "Triceps",
+        "Shoulders",
+        "Pectorals",
+        "Forearms",
+        "Upper Back",
+        "Lats",
+        "Lower Back",
+        "Glutes"
+    ],
+    "movement_patterns": [
+        "Anti-Flexion",
+        "Extension",
+        "Horizontal Push"
+    ]
+ }
