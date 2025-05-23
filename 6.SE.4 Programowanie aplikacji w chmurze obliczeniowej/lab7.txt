@@ -1,0 +1,15 @@
+(/L56_solution/s56_nodejs>) 
+docker build --build-arg VERSION=vA -f DockerfileA -t local/solution:vA .
+docker run -d -p 8601:3000 --name csA local/solution:vA
+docker ps --filter name=csA
+curl http://localhost:8601
+
+(/L56_solution/s56_nginx>)
+docker build --build-arg VERSION=vB -f DockerfileB -t local/solution:vB . 
+docker run -d -p 8602:80 --name csB local/solution:vB
+docker ps --filter name=csB
+
+
+docker buildx ls
+docker buildx create --name=testbuilder --driver docker-container --use --bootstrap
+docker buildx ls

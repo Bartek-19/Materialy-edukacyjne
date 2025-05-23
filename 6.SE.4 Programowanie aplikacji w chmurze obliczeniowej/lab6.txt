@@ -1,0 +1,13 @@
+ssh-keygen -t ed25519 -C "bartekklimiuk@gmil.com"
+(utworzenie klucza publicznego i prywatnego do githuba)
+eval "$(ssh-agent -s)" (wzmocnienie komunikacji ssh - nie działa na windowsie)
+ssh-add C:\Users\barte\OneDrive\Pulpit\VI semestr\6.SE.4 Programowanie aplikacji w chmurze obliczeniowej\gh_lab (nie działa)
+gh help
+Token: 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
+gh version
+gh auth login
+gh auth status
+gh repo --help
+gh repo list
+cd lab6
+gh repo create

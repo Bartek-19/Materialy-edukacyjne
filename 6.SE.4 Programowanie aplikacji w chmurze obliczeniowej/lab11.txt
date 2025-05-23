@@ -1,0 +1,31 @@
+docker network ls
+docker run --rm -it --name default alpine sh
+  |_  ifconfig
+
+(drugi terminal) 
+docker network ls 
+docker network inspect bridge
+docker network create -d bridge -o "com.docker.network.driver.mtu"=9000 --subnet=10.0.0.0/24 skynet - nie działa
+docker network ls
+docker network create --driver=bridge --subnet=10.0.0.0/24 my_bridge
+docker network ls
+docker run --rm -dt --name c1 alpine sh
+docker network inspect my_bridge
+docker run --rm -dt --name c2 --network=my_bridge --ip=10.0.0.2 alpine sh
+docker run --rm -dt --name c3 --network=my_bridge --ip=10.0.0.3 alpine sh
+docker network inspect my_bridge
+docker exec c2 ping c3
+docker exec c2 ping 172.17.0.3
+
+
+
+docker volume ls
+docker volume create testX
+docker volume ls
+docker volume inspect testX
+docker run --rm -it --name tester --mount source=testX,target=/magazyn alpine sh
+  |_ ls -al
+
+(drugi terminal)
+docker volume inspect testX
+docker container inspect tester

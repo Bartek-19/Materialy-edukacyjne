@@ -1,0 +1,16 @@
+gh auth status
+git init -b main
+gh repo create
+gh repo list
+git add .
+git status
+git commit -m "Initialization for lab10"
+git push -u origin mian     ---> TUTAJ BŁĄD!!!
+gh secret set DOCKERHUB_TOKEN (token dockerhuba)
+gh variable set DOCKERHUB_USERNAME (nazwa użytkownika dockerhub)
+gh workflow list
+gh workflow run
+gh run view
+git tag -a "v1.0.8" -m "Tragedia"
+git push origin tag v1.0.8
+(gh workflow watch)
