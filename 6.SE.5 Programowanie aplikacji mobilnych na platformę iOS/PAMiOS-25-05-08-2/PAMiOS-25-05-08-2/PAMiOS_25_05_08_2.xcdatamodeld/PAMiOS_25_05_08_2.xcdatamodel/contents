@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23231" systemVersion="23G93" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Breed" representedClassName="Breed" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <relationship name="toDog" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Dog" inverseName="toBreed" inverseEntity="Dog"/>
+    </entity>
+    <entity name="Dog" representedClassName="Dog" syncable="YES">
+        <attribute name="birthYear" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <relationship name="toBreed" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Breed" inverseName="toDog" inverseEntity="Breed"/>
+    </entity>
+</model>
