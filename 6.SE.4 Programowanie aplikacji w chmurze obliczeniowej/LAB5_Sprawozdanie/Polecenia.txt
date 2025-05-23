@@ -1,0 +1,7 @@
+docker build --build-arg VERSION=3.21.3 -f Dockerfile1.dockerfile -t local/lab5:v1 .
+docker run --rm -it local/lab5:v1
+----------
+docker build -f Dockerfile2.dockerfile -t local/lab5:v3 .
+docker run -d -p 8080:8080 --name=zdrowy local/lab5:v3
+----------
+docker ps --filter name=zdrowy
