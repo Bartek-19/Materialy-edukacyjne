@@ -1,0 +1,21 @@
+MATCH (ex:Exercise {exercise_name: "Back Squat"})
+SET ex.exercise_name = "Barbell Back Squat"
+
+MATCH (es:ExecutedSets)
+SET es.total_weight = es.used_weight * es.executed_repetitions
+
+MATCH (u:User)
+SET u.is_active = true
+
+MATCH (u:User)<-[:BELONGS_TO]-(tp:TrainingProgram)<-[:IS_A_PART_OF]-(td:TrainingDay)
+MATCH (es:ExecutedSets)-[:WAS_EXECUTED_IN]->(td)
+WITH u, count(es) AS total_sets
+SET u.sets_completed = total_sets
+
+MATCH (u:User)<-[:BELONGS_TO]-(tp:TrainingProgram)<-[:IS_A_PART_OF]-(td:TrainingDay)
+MATCH (es:ExecutedSets)-[:WAS_EXECUTED_IN]->(td)
+WITH u, sum(es.executed_repetitions * es.used_weight) AS total_tonnage
+SET u.total_tonnage = total_tonnage
+
+MATCH (ex:Exercise {exercise_name: "Overhead Press"})
+SET ex.category = "Global"

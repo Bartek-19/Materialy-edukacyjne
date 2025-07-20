@@ -1,0 +1,13 @@
+{
+    "exercise_name": "exercise",
+    "description": "description",
+    "category": "category",
+    "target_muscle_groups": [
+        "biceps",
+        "triceps"
+    ],
+    "movement_patterns": [
+        "up",
+        "down"
+    ]
+}

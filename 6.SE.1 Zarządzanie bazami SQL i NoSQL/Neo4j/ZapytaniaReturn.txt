@@ -1,0 +1,36 @@
+MATCH (e:ExecutedSets)-[:WAS_EXECUTED_IN]->(d:TrainingDay {week_number: 1, day: "Monday"})
+MATCH (ex:Exercise)-[:WAS_USED_IN]->(e)
+RETURN d.day, d.week_number, ex.exercise_name, e.executed_repetitions, e.used_weight
+
+MATCH (u:User {username: "user2"})<-[:BELONGS_TO]-(tp:TrainingProgram)
+MATCH (td:TrainingDay)-[:IS_A_PART_OF]->(tp)
+MATCH (td)-[imp:IMPLEMENTS]->(ex)
+RETURN td.day, td.week_number, ex.exercise_name, imp.effort_type, imp.sets, imp.weight, imp.repetitions
+
+MATCH (ex:Exercise {category: "Compound"})-[:WAS_USED_IN]->(:ExecutedSets)
+RETURN DISTINCT ex.exercise_name
+
+MATCH (u:User {username: "user1"})<-[:BELONGS_TO]-(tp:TrainingProgram)<-[:IS_A_PART_OF]-(td:TrainingDay)
+RETURN td.day, td.week_number
+
+MATCH (ex:Exercise)-[:WAS_USED_IN]->(es:ExecutedSets)
+RETURN ex.exercise_name, avg(es.executed_repetitions) AS avg_reps
+
+MATCH (es:ExecutedSets)-[:WAS_EXECUTED_IN]->(td:TrainingDay {week_number: 2})
+RETURN es.set_number, es.executed_repetitions, es.used_weight
+
+MATCH (:TrainingDay)-[imp:IMPLEMENTS]->(ex:Exercise)
+WHERE imp.effort_type = "Max effort"
+RETURN DISTINCT ex.exercise_name
+
+MATCH (ex:Exercise)-[:WAS_USED_IN]->(es:ExecutedSets)
+WHERE es.executed_repetitions > 3
+RETURN ex.exercise_name, es.executed_repetitions, es.used_weight
+
+MATCH (ex:Exercise)<-[imp:IMPLEMENTS]-(td:TrainingDay)
+MATCH (td)-[:IS_A_PART_OF]->(tp:TrainingProgram)
+MATCH (tp)-[:BELONGS_TO]->(u:User)
+RETURN u.username, ex.exercise_name, imp.effort_type, imp.sets, imp.repetitions, imp.weight
+
+MATCH (ex:Exercise)-[:WAS_USED_IN]->(es:ExecutedSets)
+RETURN ex.exercise_name, count(es) AS sets_executed

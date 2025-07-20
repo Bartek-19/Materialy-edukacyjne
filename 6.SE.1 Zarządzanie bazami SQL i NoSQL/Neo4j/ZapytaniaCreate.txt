@@ -1,0 +1,187 @@
+CREATE (user1:User {username: "user1", password: "password1", email: "user1@email.com", status: "active", create_date: "2024-12-31", progams_completed: 1, trainings_completed: 9, sets_completed: 21, total_tonnage: 20000, max_squat: 140, max_bench: 100, max_deadlift: 170})
+
+CREATE (user2:User {username: "user2", password: "password2", email: "user2@email.com", status: "active", create_date: "2025-05-01", progams_completed: 0, trainings_completed: 1, sets_completed: 12, total_tonnage: 20000, max_squat: 170, max_bench: 125, max_deadlift: 210})
+
+CREATE (user3:User {username: "user3", password: "password3", email: "user3@email.com", status: "inactive", create_date: "2025-05-27", progams_completed: 0, trainings_completed: 0, sets_completed: 0, total_tonnage: 0, max_squat: 90, max_bench: 60, max_deadlift: 100})
+
+CREATE (trainingProgram1:TrainingProgram {username: "user1", training_method: "Texas Method", was_tracking_sleep: true, amount_of_sleep: 9, was_tracking_nutrition: true, personal_evaluation: 10})
+
+CREATE (trainingProgram2:TrainingProgram {username: "user2", training_method: "Condense Conjugate", was_tracking_sleep: false, amount_of_sleep: 0, was_tracking_nutrition: false, personal_evaluation: 0})
+
+MATCH (tp:TrainingProgram), (u:User) WHERE tp.username = 'user1' AND u.username = 'user1' CREATE (tp)-[: BELONGS_TO]->(u)
+
+MATCH (tp:TrainingProgram), (u:User) WHERE tp.username = 'user2' AND u.username = 'user2' CREATE (tp)-[: BELONGS_TO]->(u)
+
+CREATE (exercise1:Exercise {exercise_name: "Back Squat", description: "Squat performed in a bilateral stance, with a barbell placed in a high-bar or a low-bar position, performed to a competition required depth", category: "Global", target_muscle_groups: ["Upper back", "Lower back", "Glutes", "Adductors", "Abdominals", "Hamstrings", "Quadriceps", "Calves"], movement_patterns: ["Extension", "Anti-Flexion", "Anti-Extension", "Squat"]})
+
+CREATE (exercise2:Exercise {exercise_name: "Bench Press", description: "Pressing in the laying position on a flat bench, performed to a competition standards", category: "Global", target_muscle_groups: ["Triceps", "Shoulders", "Pectorals", "Forearms", "Upper Back", "Lats", "Lower Back", "Glutes"], movement_patterns: ["Anti-Flexion", "Extension", "Horizontal Push"]})
+
+CREATE (exercise3:Exercise {exercise_name: "Deadlift", description: "Performed in a conventional or a sumo stance, every repetition must be initiated off the ground from a dead-stop", category: "Global", target_muscle_groups: ["Forearms", "Neck", "Upper back", "Lats", "Lower back", "Glutes", "Adductors", "Abdominals", "Hamstrings", "Quadriceps", "Calves"], movement_patterns: ["Extension", "Anti-Flexion", "Hip Hinge"]})
+
+CREATE (exercise4:Exercise {exercise_name: "Front Squat", description: "Performed with a barbell placed on shoulders in front of the neck, in a front rack position, performed to a full depth", category: "Global", target_muscle_groups: ["Shoulders", "Forearms", "Upper back", "Lower back", "Glutes", "Adductors", "Abdominals", "Hamstrings", "Quadriceps", "Calves"], movement_patterns: ["Extension", "Anti-Flexion", "Anti-Extension", "Squat"]})
+
+CREATE (exercise5:Exercise {exercise_name: "Overhead Press", description: "Performed in a standing position strict overhead press", category: "Compound", target_muscle_groups: ["Triceps", "Shoulders", "Neck", "Forearms", "Upper Back", "Lower Back", "Glutes", "Abdominals"], movement_patterns: ["Anti-Flexion", "Anti-Extension", "Extension", "Vertical Push"]})
+
+CREATE (exercise6:Exercise {exercise_name: "Pull-up", description: "Pull-up performed conventionally with a overhand grip, the bar must reach the neck and sternum area at the top of the repetition", category: "Compound", target_muscle_groups: ["Biceps", "Shoulders", "Forearms", "Upper back", "Lats", "Abdominals"], movement_patterns: ["Flexion", "Vertical Pull"]})
+
+CREATE (trainingDay1:TrainingDay {day: "Monday", week_number: 1})
+
+CREATE (trainingDay2:TrainingDay {day: "Wednesday", week_number: 1})
+
+CREATE (trainingDay3:TrainingDay {day: "Friday", week_number: 1})
+
+CREATE (trainingDay4:TrainingDay {day: "Monday", week_number: 2})
+
+CREATE (trainingDay5:TrainingDay {day: "Wednesday", week_number: 2})
+
+CREATE (trainingDay6:TrainingDay {day: "Friday", week_number: 2})
+
+CREATE (trainingDay7:TrainingDay {day: "Monday", week_number: 3})
+
+CREATE (trainingDay8:TrainingDay {day: "Wednesday", week_number: 3})
+
+CREATE (trainingDay9:TrainingDay {day: "Friday", week_number: 3})
+
+CREATE (trainingDay10:TrainingDay {day: "Tuesday", week_number: 1})
+
+MATCH (td:TrainingDay), (tp:TrainingProgram) WHERE id(td)=11 AND id(tp)=3 CREATE (td)-[: IS_A_PART_OF]->(tp)
+
+MATCH (td:TrainingDay), (tp:TrainingProgram) WHERE id(td)=12 AND id(tp)=3 CREATE (td)-[: IS_A_PART_OF]->(tp)
+
+MATCH (td:TrainingDay), (tp:TrainingProgram) WHERE id(td)=13 AND id(tp)=3 CREATE (td)-[: IS_A_PART_OF]->(tp)
+
+MATCH (td:TrainingDay), (tp:TrainingProgram) WHERE id(td)=14 AND id(tp)=3 CREATE (td)-[: IS_A_PART_OF]->(tp)
+
+MATCH (td:TrainingDay), (tp:TrainingProgram) WHERE id(td)=15 AND id(tp)=3 CREATE (td)-[: IS_A_PART_OF]->(tp)
+
+MATCH (td:TrainingDay), (tp:TrainingProgram) WHERE id(td)=16 AND id(tp)=3 CREATE (td)-[: IS_A_PART_OF]->(tp)
+
+MATCH (td:TrainingDay), (tp:TrainingProgram) WHERE id(td)=17 AND id(tp)=3 CREATE (td)-[: IS_A_PART_OF]->(tp)
+
+MATCH (td:TrainingDay), (tp:TrainingProgram) WHERE id(td)=18 AND id(tp)=3 CREATE (td)-[: IS_A_PART_OF]->(tp)
+
+MATCH (td:TrainingDay), (tp:TrainingProgram) WHERE id(td)=19 AND id(tp)=3 CREATE (td)-[: IS_A_PART_OF]->(tp)
+
+MATCH (td:TrainingDay), (tp:TrainingProgram) WHERE id(td)=20 AND id(tp)=4 CREATE (td)-[: IS_A_PART_OF]->(tp)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=5 AND id(td)=11 CREATE (td)-[: IMPLEMENTS{effort_type: "Max effort", weight: 125, sets: 3, repetitions: 3}]->(e)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=6 AND id(td)=12 CREATE (td)-[: IMPLEMENTS{effort_type: "Max effort", weight: 85, sets: 3, repetitions: 3}]->(e)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=7 AND id(td)=13 CREATE (td)-[: IMPLEMENTS{effort_type: "Max effort", weight: 155, sets: 3, repetitions: 3}]->(e)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=5 AND id(td)=14 CREATE (td)-[: IMPLEMENTS{effort_type: "Max effort", weight: 135, sets: 3, repetitions: 2}]->(e)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=6 AND id(td)=15 CREATE (td)-[: IMPLEMENTS{effort_type: "Max effort", weight: 95, sets: 3, repetitions: 2}]->(e)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=7 AND id(td)=16 CREATE (td)-[: IMPLEMENTS{effort_type: "Max effort", weight: 165, sets: 3, repetitions: 2}]->(e)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=5 AND id(td)=17 CREATE (td)-[: IMPLEMENTS{effort_type: "Max effort", weight: 145, sets: 1, repetitions: 1}]->(e)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=6 AND id(td)=18 CREATE (td)-[: IMPLEMENTS{effort_type: "Max effort", weight: 105, sets: 1, repetitions: 1}]->(e)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=7 AND id(td)=19 CREATE (td)-[: IMPLEMENTS{effort_type: "Max effort", weight: 175, sets: 1, repetitions: 1}]->(e)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=6 AND id(td)=20 CREATE (td)-[: IMPLEMENTS{effort_type: "Max effort", weight: 120, sets: 3, repetitions: 1}]->(e)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=8 AND id(td)=20 CREATE (td)-[: IMPLEMENTS{effort_type: "Speed effort", weight: 90, sets: 3, repetitions: 5}]->(e)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=10 AND id(td)=20 CREATE (td)-[: IMPLEMENTS{effort_type: "Max effort", weight: 20, sets: 3, repetitions: 5}]->(e)
+
+MATCH (e:Exercise), (td:TrainingDay) WHERE id(e)=7 AND id(td)=20 CREATE (td)-[: IMPLEMENTS{effort_type: "Dynamic effort", weight: 160, sets: 3, repetitions: 3}]->(e)
+
+CREATE (executedSet1:ExecutedSets {set_number: 1, executed_repetitions: 3, used_weight: 125})
+
+CREATE (executedSet2:ExecutedSets {set_number: 2, executed_repetitions: 3, used_weight: 125})
+
+CREATE (executedSet3:ExecutedSets {set_number: 3, executed_repetitions: 3, used_weight: 125})
+
+CREATE (executedSet4:ExecutedSets {set_number: 1, executed_repetitions: 3, used_weight: 85})
+
+CREATE (executedSet5:ExecutedSets {set_number: 2, executed_repetitions: 3, used_weight: 85})
+
+CREATE (executedSet6:ExecutedSets {set_number: 3, executed_repetitions: 2, used_weight: 85})
+
+CREATE (executedSet7:ExecutedSets {set_number: 1, executed_repetitions: 3, used_weight: 155})
+
+CREATE (executedSet8:ExecutedSets {set_number: 2, executed_repetitions: 2, used_weight: 155})
+
+CREATE (executedSet9:ExecutedSets {set_number: 3, executed_repetitions: 3, used_weight: 155})
+
+CREATE (executedSet10:ExecutedSets {set_number: 1, executed_repetitions: 2, used_weight: 135})
+
+CREATE (executedSet11:ExecutedSets {set_number: 2, executed_repetitions: 2, used_weight: 135})
+
+CREATE (executedSet12:ExecutedSets {set_number: 3, executed_repetitions: 1, used_weight: 135})
+
+CREATE (executedSet13:ExecutedSets {set_number: 1, executed_repetitions: 2, used_weight: 95})
+
+CREATE (executedSet14:ExecutedSets {set_number: 2, executed_repetitions: 2, used_weight: 95})
+
+CREATE (executedSet15:ExecutedSets {set_number: 3, executed_repetitions: 2, used_weight: 95})
+
+CREATE (executedSet16:ExecutedSets {set_number: 1, executed_repetitions: 1, used_weight: 165})
+
+CREATE (executedSet17:ExecutedSets {set_number: 2, executed_repetitions: 2, used_weight: 165})
+
+CREATE (executedSet18:ExecutedSets {set_number: 3, executed_repetitions: 2, used_weight: 165})
+
+CREATE (executedSet19:ExecutedSets {set_number: 1, executed_repetitions: 1, used_weight: 145})
+
+CREATE (executedSet20:ExecutedSets {set_number: 1, executed_repetitions: 1, used_weight: 110})
+
+CREATE (executedSet21:ExecutedSets {set_number: 1, executed_repetitions: 1, used_weight: 175})
+
+CREATE (executedSet22:ExecutedSets {set_number: 1, executed_repetitions: 1, used_weight: 120})
+
+CREATE (executedSet23:ExecutedSets {set_number: 2, executed_repetitions: 1, used_weight: 120})
+
+CREATE (executedSet24:ExecutedSets {set_number: 3, executed_repetitions: 1, used_weight: 120})
+
+CREATE (executedSet25:ExecutedSets {set_number: 1, executed_repetitions: 3, used_weight: 90})
+
+CREATE (executedSet26:ExecutedSets {set_number: 2, executed_repetitions: 3, used_weight: 90})
+
+CREATE (executedSet27:ExecutedSets {set_number: 3, executed_repetitions: 2, used_weight: 90})
+
+CREATE (executedSet28:ExecutedSets {set_number: 1, executed_repetitions: 5, used_weight: 20})
+
+CREATE (executedSet29:ExecutedSets {set_number: 2, executed_repetitions: 3, used_weight: 20})
+
+CREATE (executedSet30:ExecutedSets {set_number: 3, executed_repetitions: 4, used_weight: 20})
+
+CREATE (executedSet31:ExecutedSets {set_number: 1, executed_repetitions: 2, used_weight: 165})
+
+CREATE (executedSet32:ExecutedSets {set_number: 2, executed_repetitions: 3, used_weight: 160})
+
+CREATE (executedSet33:ExecutedSets {set_number: 3, executed_repetitions: 3, used_weight: 160})
+
+MATCH (es: ExecutedSets), (td: TrainingDay) WHERE id(es) IN [21,22,23] AND id(td)=11 CREATE (es)-[:WAS_EXECUTED_IN]->(td)
+
+MATCH (es: ExecutedSets), (td: TrainingDay) WHERE id(es) IN [24,25,26] AND id(td)=12 CREATE (es)-[:WAS_EXECUTED_IN]->(td)
+
+MATCH (es: ExecutedSets), (td: TrainingDay) WHERE id(es) IN [27,28,29] AND id(td)=13 CREATE (es)-[:WAS_EXECUTED_IN]->(td)
+
+MATCH (es: ExecutedSets), (td: TrainingDay) WHERE id(es) IN [30,31,32] AND id(td)=14 CREATE (es)-[:WAS_EXECUTED_IN]->(td)
+
+MATCH (es: ExecutedSets), (td: TrainingDay) WHERE id(es) IN [33,34,35] AND id(td)=15 CREATE (es)-[:WAS_EXECUTED_IN]->(td)
+
+MATCH (es: ExecutedSets), (td: TrainingDay) WHERE id(es) IN [36,37,38] AND id(td)=16 CREATE (es)-[:WAS_EXECUTED_IN]->(td)
+
+MATCH (es: ExecutedSets), (td: TrainingDay) WHERE id(es)=39 AND id(td)=17 CREATE (es)-[:WAS_EXECUTED_IN]->(td)
+
+MATCH (es: ExecutedSets), (td: TrainingDay) WHERE id(es)=40 AND id(td)=18 CREATE (es)-[:WAS_EXECUTED_IN]->(td)
+
+MATCH (es: ExecutedSets), (td: TrainingDay) WHERE id(es)=41 AND id(td)=19 CREATE (es)-[:WAS_EXECUTED_IN]->(td)
+
+MATCH (es: ExecutedSets), (td: TrainingDay) WHERE id(es) >= 42 AND id(es) <=53 AND id(td)=20 CREATE (es)-[:WAS_EXECUTED_IN]->(td)
+
+MATCH (es: ExecutedSets), (ex: Exercise) WHERE id(ex)=5 AND id(es) IN [21,22,23,30,31,32,39] CREATE (ex)-[:WAS_USED_IN]->(es)
+
+MATCH (es: ExecutedSets), (ex: Exercise) WHERE id(ex)=6 AND id(es) IN [24,25,26,33,34,35,40,42,43,44] CREATE (ex)-[:WAS_USED_IN]->(es)
+
+MATCH (es: ExecutedSets), (ex: Exercise) WHERE id(ex)=7 AND id(es) IN [27,28,29,36,37,38,41,51,52,53] CREATE (ex)-[:WAS_USED_IN]->(es)
+
+MATCH (es: ExecutedSets), (ex: Exercise) WHERE id(ex)=8 AND id(es) IN [45,46,47] CREATE (ex)-[:WAS_USED_IN]->(es)
+
+MATCH (es: ExecutedSets), (ex: Exercise) WHERE id(ex)=10 AND id(es) IN [48,49,50] CREATE (ex)-[:WAS_USED_IN]->(es)

@@ -1,0 +1,14 @@
+{
+    "username": "user",
+    "password": "password",
+    "email": "mail@gmail.com",
+    "status": "status",
+    "create_date": "2024-01-01",
+    "programs_completed": 0,
+    "trainings_completed": 0,
+    "sets_completed": 0,
+    "total_tonnage": 0,
+    "max_squat": 0,
+    "max_bench": 0,
+    "max_deadlift": 0
+}
